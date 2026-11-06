@@ -1,0 +1,57 @@
+# Flyhigh Bots
+
+> Free, ready-to-use Grok Bot templates built and published by Flyhigh. Each template is a generic, ready-made Grok Bot setup (skills, instructions, routines) that anyone can add to their own Grok Bot from its x.ai link. No personal data is included in any template.
+
+Site: https://flyhigh-bots.vercel.app/
+Machine-readable list of templates and packs: https://flyhigh-bots.vercel.app/bundles.json
+Full descriptions: https://flyhigh-bots.vercel.app/llms-full.txt
+Updated: 2026-11-06T06:05:36.708Z
+
+## Templates
+- [Stock & Crypto Trader](https://x.ai/bot/jxKUCaf158ut-7XwSQ_u4): A trading research assistant for stocks and crypto: pre-market briefs, watchlist price alerts, stock and coin research, trade plans and a trade… (Category: Finance)
+- [AI Film & Music Video Studio](https://x.ai/bot/T4hPZmv7opPaFWZUtmdf6): Turns your novel, script or song into video with free tools: cinematic scenes with a voice for each character, beat-synced lyric videos with… (Category: Creative)
+- [AI Legal Counsel](https://x.ai/bot/0n2IqEnQ_0bUvP6VfPld2): An in-house legal counsel assistant for startups and small businesses. (Category: Legal)
+- [Astrology Site Builder](https://x.ai/bot/ytSNYfWUClsFsSB66bjvl): Builds and runs an astrology website for you: a free kundli tool, paid reports, astrologer consultations, festival and rashi content, multilingual… (Category: Developer Tools)
+- [Book Author & KDP Publisher](https://x.ai/bot/iVHerKbstiZv-86EUEaOh): Turns your expertise or story into a finished book (exam-prep guide, non-fiction or novel) and ends in a ready-to-upload Amazon KDP pack with… (Category: Publishing)
+- [Chief Legal Officer](https://x.ai/bot/uZa09Jz7CzA_yDqgCNw5a): A strategic assistant for General Counsel and CLOs: legal risk registers, compliance calendars, sourced regulatory change watch, board briefs,… (Category: Legal)
+- [Compliance Toolkit Builder](https://x.ai/bot/Bwul3tQqYCM5iYBVyBHdC): Builds professional compliance kits (guide, fill-in templates, checklists and a quick-reference card) for any law or regulation, with every legal… (Category: Business)
+- [Contract Review & Drafting](https://x.ai/bot/VM3fu8RV178aDO4nvAnL_): Reviews contracts clause by clause against your playbook, rates risk, and produces a redlined DOCX plus a negotiation summary. (Category: Legal)
+- [COS · Chief of Staff](https://x.ai/bot/y76EVfCckjxia46t3oD1P): A chief of staff for people who run several Grok Bots. (Category: Productivity)
+- [Course Developer](https://x.ai/bot/TQSKNQ4yxMy0f1SoJp_Nr): Builds and publishes online video courses end to end: research, scripts, narrated slide videos, captions, notes, Udemy uploads, review fixes and… (Category: Education)
+- [Data Protection Officer](https://x.ai/bot/0e9DsH6BB8b8XXUz5p0dB): A privacy compliance assistant for India's DPDP Act, GDPR, CCPA and similar laws: data maps and records of processing, DPIAs, consent and notice… (Category: Legal)
+- [Digital Product Factory](https://x.ai/bot/9ArJ-aBLvVLytHkmesoMp): Plans and mass-produces original digital product packs in your niche: each pack a PDF guide, Word templates, an Excel tracker and a slide deck,… (Category: Business)
+- [Digital Product Store Publisher](https://x.ai/bot/fogbsjBp7WD2alude46jf): Lists your ebooks, study guides and kits on Topmate, Instamojo, Payhip or Gumroad, checks each live page, and sends you the links. (Category: Business)
+- [Digital Store Publisher](https://x.ai/bot/uZAGOFzg39b_R-b7-42Qp): Lists your ebooks, study guides, templates and kits on creator storefronts like Gumroad, Payhip, Topmate and Instamojo, checks each live page, and… (Category: Business)
+- [Freelance Gig Manager](https://x.ai/bot/5WJkK7JvQnU3dOW8k1Yxb): Runs a freelancer's business on Fiverr, Upwork and Freelancer.com: optimises profiles and gigs, finds matching jobs, drafts proposals and client… (Category: Business)
+- [Game](https://x.ai/bot/WlSJx_DDaSB4vvDBPqrOP): A hands-on builder and growth helper. (Category: Developer Tools)
+- [Google Ads Manager](https://x.ai/bot/Sr3XiT6tmeR8yCJ_POzhW): Sets up and runs Google Ads (Search and Demand Gen) for a small business or website, with weekly spend and results reports. (Category: Marketing)
+- [Immigration & Global Careers](https://x.ai/bot/fmMBooBixWXTk_tjpKG_J): A long-term immigration, visa, permanent-settlement and international jobs consultant that builds a practical move-abroad plan for your profile… (Category: Careers)
+- [Instagram](https://x.ai/bot/JysUnWSCgQfv1L0g5H-AY): Makes and posts AI-generated reels and music-video posts for your Instagram and YouTube pages with free tools. (Category: Social Media)
+- [Job Apply Assistant](https://x.ai/bot/d97BHkpFYDFAQecsJJ-Z6): Applies to jobs for you every day on LinkedIn Easy Apply and Naukri, using your saved resumes and standard answers, and sends one short daily summary. (Category: Careers)
+- [Launch Promoter](https://x.ai/bot/jysIiwKDSu4ztUipfNGAq): Promotes your product, book or site through free channels: fixes store pages first, then drafts directory listings, helpful Quora answers, Medium… (Category: Marketing)
+- [Legal Research Assistant](https://x.ai/bot/0qonAc5ADQm9BI2BCzdZu): Researches legal questions from official and public sources (statutes, regulations, case law, regulator guidance) and writes cited research memos… (Category: Legal)
+- [Litigation Case Manager](https://x.ai/bot/TX2ZhJLa79nQNVSj3wo8w): Keeps litigation and dispute matters organised for lawyers and legal teams: case diary with hearings and limitation deadlines, evidence indexes,… (Category: Legal)
+- [Market & Niche Researcher](https://x.ai/bot/TSIhtgwFXxdxeT3JIZFPo): Finds what to sell next. (Category: Business)
+- [Money Maker](https://x.ai/bot/6kZwp2qI3WTst82FmIHU4): Turns your expertise into income: lists your ebooks and study guides on creator storefronts, sets up payment links, and builds and submits… (Category: Business)
+- [Newsletter Autopilot](https://x.ai/bot/XQC6zUaDPyI9SThL2R0ej): Runs your email newsletter on autopilot. (Category: Marketing)
+- [Payment Go-Live & Site Hardening](https://x.ai/bot/rQNHwYOSK8_qsoiW9ro8Z): Gets a small business website approved by a payment gateway like Razorpay, Cashfree or Stripe: policy pages, seller and grievance details, a… (Category: Developer Tools)
+- [Security Watch](https://x.ai/bot/28-3rWvVH4b3GpRZCmogQ): A defensive security assistant for small sites and apps. (Category: Developer Tools)
+- [Trust & Safety Response](https://x.ai/bot/oCVleI40-dWX-OHJbvkMs): Supports Trust & Safety and law enforcement response teams: triages user reports and legal requests, checks validity and jurisdiction, drafts… (Category: Legal)
+- [Udemy Course Uploader](https://x.ai/bot/uhwgH3PTCTCvztpnYt7AY): Uploads and replaces lecture videos in your Udemy courses, checks each one plays, and sends you a status table. (Category: Education)
+- [Website QA Checker](https://x.ai/bot/UWgpKufqvArLLwM8QEds_): Tests your website for broken links, broken flows, mobile layout, SEO basics and typos, then sends a bug report ranked by severity. (Category: Developer Tools)
+- [Workshop Launch & Ads Manager](https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z): Launches a paid live online workshop or buildathon end to end: landing page with seats and local-currency prices, checkout, country funnel tests,… (Category: Marketing)
+- [X Growth Auto-Poster](https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ): Runs a hands-off daily X posting schedule: same-day AI news posts, tool reviews and a capped number of product soft-sells, written in a human voice. (Category: Social Media)
+
+## Packs (free bundles)
+- [Creator Launch Pack](https://flyhigh-bots.vercel.app/packs/creator-launch): Grow an audience and launch to it. Includes AI Film & Music Video Studio, Instagram, Launch Promoter, X Growth Auto-Poster, Newsletter Autopilot.
+- [Digital Product Business Pack](https://flyhigh-bots.vercel.app/packs/digital-product-business): Find it, make it, list it, get paid. Includes Market & Niche Researcher, Money Maker, Compliance Toolkit Builder, Digital Product Factory, Digital Product Store Publisher, Digital Store Publisher, X Growth Auto-Poster.
+- [Course Creator Pack](https://flyhigh-bots.vercel.app/packs/course-creator): From idea to published course and live workshop. Includes Course Developer, Money Maker, Udemy Course Uploader, Market & Niche Researcher, Workshop Launch & Ads Manager, Book Author & KDP Publisher, Launch Promoter.
+- [Career & Job Hunt Pack](https://flyhigh-bots.vercel.app/packs/career-job-hunt): Daily applications and a plan for working abroad. Includes Immigration & Global Careers, Freelance Gig Manager, Job Apply Assistant.
+- [Website Launch & Growth Pack](https://flyhigh-bots.vercel.app/packs/website-launch-growth): Launch a site that works, gets paid and gets found. Includes Website QA Checker, Payment Go-Live & Site Hardening, Security Watch, Workshop Launch & Ads Manager, Data Protection Officer, Google Ads Manager, Game.
+- [Marketing on Autopilot Pack](https://flyhigh-bots.vercel.app/packs/marketing-autopilot): Posts, newsletters, ads and promotion that keep running. Includes Newsletter Autopilot, Google Ads Manager, Launch Promoter, Workshop Launch & Ads Manager, X Growth Auto-Poster, AI Film & Music Video Studio, Instagram.
+- [Finance & Trading Pack](https://flyhigh-bots.vercel.app/packs/finance-trading): Research markets and keep a clean trade journal. Includes Stock & Crypto Trader.
+- [Compliance & Legal Pack](https://flyhigh-bots.vercel.app/packs/compliance-legal): Source-checked compliance work and a safer site. Includes Data Protection Officer, AI Legal Counsel, Chief Legal Officer, Contract Review & Drafting, Legal Research Assistant, Litigation Case Manager, Trust & Safety Response, Payment Go-Live & Site Hardening, Compliance Toolkit Builder, Security Watch.
+
+## Optional
+- [Bundle finder](https://flyhigh-bots.vercel.app/#finder): describe your purpose and business, get a matched bundle. Shareable as https://flyhigh-bots.vercel.app/?for=<your words>#finder
+- [Also listed on EdgeBefore](https://www.edgebefore.com/bots.html)

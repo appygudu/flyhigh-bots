@@ -1,0 +1,1675 @@
+{
+  "schemaVersion": 1,
+  "creator": "Flyhigh",
+  "site": "https://flyhigh-bots.vercel.app",
+  "updatedAt": "2026-11-06T06:05:36.708Z",
+  "donateUrl": "https://www.paypal.com/ncp/payment/RQ7LNE92YYMZU",
+  "supportLinks": [
+    {
+      "label": "Support this work (PayPal)",
+      "url": "https://www.paypal.com/ncp/payment/RQ7LNE92YYMZU",
+      "provider": "PayPal",
+      "currency": "USD"
+    }
+  ],
+  "packs": [
+    {
+      "slug": "creator-launch",
+      "name": "Creator Launch Pack",
+      "tagline": "Grow an audience and launch to it.",
+      "description": "For creators who want steady posts, videos and a newsletter, plus a free launch push for whatever they make next.",
+      "url": "https://flyhigh-bots.vercel.app/packs/creator-launch",
+      "free": true,
+      "image": "https://flyhigh-bots.vercel.app/packs/img/creator-launch.webp",
+      "imageJpg": "https://flyhigh-bots.vercel.app/packs/img/creator-launch-og.jpg",
+      "imageAlt": "Glass rocket lifting off beside a glowing megaphone with neon sound rings in deep space",
+      "templateIds": [
+        "T4hPZmv7opPaFWZUtmdf6",
+        "JysUnWSCgQfv1L0g5H-AY",
+        "jysIiwKDSu4ztUipfNGAq",
+        "8BtRVnoPzIY5U_FOf3hMZ",
+        "XQC6zUaDPyI9SThL2R0ej"
+      ],
+      "templates": [
+        {
+          "id": "T4hPZmv7opPaFWZUtmdf6",
+          "name": "AI Film & Music Video Studio",
+          "category": "Creative",
+          "shareUrl": "https://x.ai/bot/T4hPZmv7opPaFWZUtmdf6",
+          "reason": "Keeps your social feeds busy",
+          "summary": "Turns your novel, script or song into video with free tools: cinematic scenes with a voice for each character, beat-synced lyric videos with…"
+        },
+        {
+          "id": "JysUnWSCgQfv1L0g5H-AY",
+          "name": "Instagram",
+          "category": "Social Media",
+          "shareUrl": "https://x.ai/bot/JysUnWSCgQfv1L0g5H-AY",
+          "reason": "Keeps your social feeds busy",
+          "summary": "Makes and posts AI-generated reels and music-video posts for your Instagram and YouTube pages with free tools."
+        },
+        {
+          "id": "jysIiwKDSu4ztUipfNGAq",
+          "name": "Launch Promoter",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/jysIiwKDSu4ztUipfNGAq",
+          "reason": "Keeps your social feeds busy",
+          "summary": "Promotes your product, book or site through free channels: fixes store pages first, then drafts directory listings, helpful Quora answers, Medium…"
+        },
+        {
+          "id": "8BtRVnoPzIY5U_FOf3hMZ",
+          "name": "X Growth Auto-Poster",
+          "category": "Social Media",
+          "shareUrl": "https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ",
+          "reason": "Keeps your social feeds busy",
+          "summary": "Runs a hands-off daily X posting schedule: same-day AI news posts, tool reviews and a capped number of product soft-sells, written in a human voice."
+        },
+        {
+          "id": "XQC6zUaDPyI9SThL2R0ej",
+          "name": "Newsletter Autopilot",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/XQC6zUaDPyI9SThL2R0ej",
+          "reason": "Runs your newsletter",
+          "summary": "Runs your email newsletter on autopilot."
+        }
+      ]
+    },
+    {
+      "slug": "digital-product-business",
+      "name": "Digital Product Business Pack",
+      "tagline": "Find it, make it, list it, get paid.",
+      "description": "Research what to sell, mass-produce original digital products, list them on creator storefronts and get payments live.",
+      "url": "https://flyhigh-bots.vercel.app/packs/digital-product-business",
+      "free": true,
+      "image": "https://flyhigh-bots.vercel.app/packs/img/digital-product-business.webp",
+      "imageJpg": "https://flyhigh-bots.vercel.app/packs/img/digital-product-business-og.jpg",
+      "imageAlt": "Floating glass product boxes ringed by an orbit of amber light in deep space",
+      "templateIds": [
+        "TSIhtgwFXxdxeT3JIZFPo",
+        "6kZwp2qI3WTst82FmIHU4",
+        "Bwul3tQqYCM5iYBVyBHdC",
+        "9ArJ-aBLvVLytHkmesoMp",
+        "fogbsjBp7WD2alude46jf",
+        "uZAGOFzg39b_R-b7-42Qp",
+        "8BtRVnoPzIY5U_FOf3hMZ"
+      ],
+      "templates": [
+        {
+          "id": "TSIhtgwFXxdxeT3JIZFPo",
+          "name": "Market & Niche Researcher",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/TSIhtgwFXxdxeT3JIZFPo",
+          "reason": "Helps you make and sell digital products",
+          "summary": "Finds what to sell next."
+        },
+        {
+          "id": "6kZwp2qI3WTst82FmIHU4",
+          "name": "Money Maker",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/6kZwp2qI3WTst82FmIHU4",
+          "reason": "Helps you make and sell digital products",
+          "summary": "Turns your expertise into income: lists your ebooks and study guides on creator storefronts, sets up payment links, and builds and submits…"
+        },
+        {
+          "id": "Bwul3tQqYCM5iYBVyBHdC",
+          "name": "Compliance Toolkit Builder",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/Bwul3tQqYCM5iYBVyBHdC",
+          "reason": "Helps you make and sell digital products",
+          "summary": "Builds professional compliance kits (guide, fill-in templates, checklists and a quick-reference card) for any law or regulation, with every legal…"
+        },
+        {
+          "id": "9ArJ-aBLvVLytHkmesoMp",
+          "name": "Digital Product Factory",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/9ArJ-aBLvVLytHkmesoMp",
+          "reason": "Helps you make and sell digital products",
+          "summary": "Plans and mass-produces original digital product packs in your niche: each pack a PDF guide, Word templates, an Excel tracker and a slide deck,…"
+        },
+        {
+          "id": "fogbsjBp7WD2alude46jf",
+          "name": "Digital Product Store Publisher",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/fogbsjBp7WD2alude46jf",
+          "reason": "Helps you make and sell digital products",
+          "summary": "Lists your ebooks, study guides and kits on Topmate, Instamojo, Payhip or Gumroad, checks each live page, and sends you the links."
+        },
+        {
+          "id": "uZAGOFzg39b_R-b7-42Qp",
+          "name": "Digital Store Publisher",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/uZAGOFzg39b_R-b7-42Qp",
+          "reason": "Helps you make and sell digital products",
+          "summary": "Lists your ebooks, study guides, templates and kits on creator storefronts like Gumroad, Payhip, Topmate and Instamojo, checks each live page, and…"
+        },
+        {
+          "id": "8BtRVnoPzIY5U_FOf3hMZ",
+          "name": "X Growth Auto-Poster",
+          "category": "Social Media",
+          "shareUrl": "https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ",
+          "reason": "Helps you make and sell digital products",
+          "summary": "Runs a hands-off daily X posting schedule: same-day AI news posts, tool reviews and a capped number of product soft-sells, written in a human voice."
+        }
+      ]
+    },
+    {
+      "slug": "course-creator",
+      "name": "Course Creator Pack",
+      "tagline": "From idea to published course and live workshop.",
+      "description": "Pick a course topic with real demand, build and upload the course, run live workshops and turn it into a book.",
+      "url": "https://flyhigh-bots.vercel.app/packs/course-creator",
+      "free": true,
+      "image": "https://flyhigh-bots.vercel.app/packs/img/course-creator.webp",
+      "imageJpg": "https://flyhigh-bots.vercel.app/packs/img/course-creator-og.jpg",
+      "imageAlt": "Glass graduation cap hovering over a holographic video player with film frames",
+      "templateIds": [
+        "TQSKNQ4yxMy0f1SoJp_Nr",
+        "6kZwp2qI3WTst82FmIHU4",
+        "uhwgH3PTCTCvztpnYt7AY",
+        "TSIhtgwFXxdxeT3JIZFPo",
+        "2gjs4TvtSZeWdu0V5By9z",
+        "iVHerKbstiZv-86EUEaOh",
+        "jysIiwKDSu4ztUipfNGAq"
+      ],
+      "templates": [
+        {
+          "id": "TQSKNQ4yxMy0f1SoJp_Nr",
+          "name": "Course Developer",
+          "category": "Education",
+          "shareUrl": "https://x.ai/bot/TQSKNQ4yxMy0f1SoJp_Nr",
+          "reason": "Builds and ships your courses",
+          "summary": "Builds and publishes online video courses end to end: research, scripts, narrated slide videos, captions, notes, Udemy uploads, review fixes and…"
+        },
+        {
+          "id": "6kZwp2qI3WTst82FmIHU4",
+          "name": "Money Maker",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/6kZwp2qI3WTst82FmIHU4",
+          "reason": "Builds and ships your courses",
+          "summary": "Turns your expertise into income: lists your ebooks and study guides on creator storefronts, sets up payment links, and builds and submits…"
+        },
+        {
+          "id": "uhwgH3PTCTCvztpnYt7AY",
+          "name": "Udemy Course Uploader",
+          "category": "Education",
+          "shareUrl": "https://x.ai/bot/uhwgH3PTCTCvztpnYt7AY",
+          "reason": "Builds and ships your courses",
+          "summary": "Uploads and replaces lecture videos in your Udemy courses, checks each one plays, and sends you a status table."
+        },
+        {
+          "id": "TSIhtgwFXxdxeT3JIZFPo",
+          "name": "Market & Niche Researcher",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/TSIhtgwFXxdxeT3JIZFPo",
+          "reason": "Finds what is worth selling",
+          "summary": "Finds what to sell next."
+        },
+        {
+          "id": "2gjs4TvtSZeWdu0V5By9z",
+          "name": "Workshop Launch & Ads Manager",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z",
+          "reason": "Launches paid live workshops",
+          "summary": "Launches a paid live online workshop or buildathon end to end: landing page with seats and local-currency prices, checkout, country funnel tests,…"
+        },
+        {
+          "id": "iVHerKbstiZv-86EUEaOh",
+          "name": "Book Author & KDP Publisher",
+          "category": "Publishing",
+          "shareUrl": "https://x.ai/bot/iVHerKbstiZv-86EUEaOh",
+          "reason": "Turns your know-how into a book",
+          "summary": "Turns your expertise or story into a finished book (exam-prep guide, non-fiction or novel) and ends in a ready-to-upload Amazon KDP pack with…"
+        },
+        {
+          "id": "jysIiwKDSu4ztUipfNGAq",
+          "name": "Launch Promoter",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/jysIiwKDSu4ztUipfNGAq",
+          "reason": "Turns your know-how into a book",
+          "summary": "Promotes your product, book or site through free channels: fixes store pages first, then drafts directory listings, helpful Quora answers, Medium…"
+        }
+      ]
+    },
+    {
+      "slug": "career-job-hunt",
+      "name": "Career & Job Hunt Pack",
+      "tagline": "Daily applications and a plan for working abroad.",
+      "description": "Apply to jobs every day with your saved resumes, and build a realistic plan for visas and overseas roles.",
+      "url": "https://flyhigh-bots.vercel.app/packs/career-job-hunt",
+      "free": true,
+      "image": "https://flyhigh-bots.vercel.app/packs/img/career-job-hunt.webp",
+      "imageJpg": "https://flyhigh-bots.vercel.app/packs/img/career-job-hunt-og.jpg",
+      "imageAlt": "Glass briefcase in front of a glowing wireframe globe with neon flight paths",
+      "templateIds": [
+        "fmMBooBixWXTk_tjpKG_J",
+        "5WJkK7JvQnU3dOW8k1Yxb",
+        "d97BHkpFYDFAQecsJJ-Z6"
+      ],
+      "templates": [
+        {
+          "id": "fmMBooBixWXTk_tjpKG_J",
+          "name": "Immigration & Global Careers",
+          "category": "Careers",
+          "shareUrl": "https://x.ai/bot/fmMBooBixWXTk_tjpKG_J",
+          "reason": "Speeds up your job hunt",
+          "summary": "A long-term immigration, visa, permanent-settlement and international jobs consultant that builds a practical move-abroad plan for your profile…"
+        },
+        {
+          "id": "5WJkK7JvQnU3dOW8k1Yxb",
+          "name": "Freelance Gig Manager",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/5WJkK7JvQnU3dOW8k1Yxb",
+          "reason": "Speeds up your job hunt",
+          "summary": "Runs a freelancer's business on Fiverr, Upwork and Freelancer.com: optimises profiles and gigs, finds matching jobs, drafts proposals and client…"
+        },
+        {
+          "id": "d97BHkpFYDFAQecsJJ-Z6",
+          "name": "Job Apply Assistant",
+          "category": "Careers",
+          "shareUrl": "https://x.ai/bot/d97BHkpFYDFAQecsJJ-Z6",
+          "reason": "Speeds up your job hunt",
+          "summary": "Applies to jobs for you every day on LinkedIn Easy Apply and Naukri, using your saved resumes and standard answers, and sends one short daily summary."
+        }
+      ]
+    },
+    {
+      "slug": "website-launch-growth",
+      "name": "Website Launch & Growth Pack",
+      "tagline": "Launch a site that works, gets paid and gets found.",
+      "description": "QA your site, harden it, get a payment gateway approved, keep watch for security issues and run ads once it is ready.",
+      "url": "https://flyhigh-bots.vercel.app/packs/website-launch-growth",
+      "free": true,
+      "image": "https://flyhigh-bots.vercel.app/packs/img/website-launch-growth.webp",
+      "imageJpg": "https://flyhigh-bots.vercel.app/packs/img/website-launch-growth-og.jpg",
+      "imageAlt": "Glass browser window with a rocket launching out of it toward rising growth bars",
+      "templateIds": [
+        "UWgpKufqvArLLwM8QEds_",
+        "rQNHwYOSK8_qsoiW9ro8Z",
+        "28-3rWvVH4b3GpRZCmogQ",
+        "2gjs4TvtSZeWdu0V5By9z",
+        "0e9DsH6BB8b8XXUz5p0dB",
+        "Sr3XiT6tmeR8yCJ_POzhW",
+        "WlSJx_DDaSB4vvDBPqrOP"
+      ],
+      "templates": [
+        {
+          "id": "UWgpKufqvArLLwM8QEds_",
+          "name": "Website QA Checker",
+          "category": "Developer Tools",
+          "shareUrl": "https://x.ai/bot/UWgpKufqvArLLwM8QEds_",
+          "reason": "Catches bugs before customers do",
+          "summary": "Tests your website for broken links, broken flows, mobile layout, SEO basics and typos, then sends a bug report ranked by severity."
+        },
+        {
+          "id": "rQNHwYOSK8_qsoiW9ro8Z",
+          "name": "Payment Go-Live & Site Hardening",
+          "category": "Developer Tools",
+          "shareUrl": "https://x.ai/bot/rQNHwYOSK8_qsoiW9ro8Z",
+          "reason": "Keeps your site and accounts safer",
+          "summary": "Gets a small business website approved by a payment gateway like Razorpay, Cashfree or Stripe: policy pages, seller and grievance details, a…"
+        },
+        {
+          "id": "28-3rWvVH4b3GpRZCmogQ",
+          "name": "Security Watch",
+          "category": "Developer Tools",
+          "shareUrl": "https://x.ai/bot/28-3rWvVH4b3GpRZCmogQ",
+          "reason": "Keeps your site and accounts safer",
+          "summary": "A defensive security assistant for small sites and apps."
+        },
+        {
+          "id": "2gjs4TvtSZeWdu0V5By9z",
+          "name": "Workshop Launch & Ads Manager",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z",
+          "reason": "Looks after your website",
+          "summary": "Launches a paid live online workshop or buildathon end to end: landing page with seats and local-currency prices, checkout, country funnel tests,…"
+        },
+        {
+          "id": "0e9DsH6BB8b8XXUz5p0dB",
+          "name": "Data Protection Officer",
+          "category": "Legal",
+          "shareUrl": "https://x.ai/bot/0e9DsH6BB8b8XXUz5p0dB",
+          "reason": "Keeps your site and accounts safer",
+          "summary": "A privacy compliance assistant for India's DPDP Act, GDPR, CCPA and similar laws: data maps and records of processing, DPIAs, consent and notice…"
+        },
+        {
+          "id": "Sr3XiT6tmeR8yCJ_POzhW",
+          "name": "Google Ads Manager",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/Sr3XiT6tmeR8yCJ_POzhW",
+          "reason": "Looks after your website",
+          "summary": "Sets up and runs Google Ads (Search and Demand Gen) for a small business or website, with weekly spend and results reports."
+        },
+        {
+          "id": "WlSJx_DDaSB4vvDBPqrOP",
+          "name": "Game",
+          "category": "Developer Tools",
+          "shareUrl": "https://x.ai/bot/WlSJx_DDaSB4vvDBPqrOP",
+          "reason": "Looks after your website",
+          "summary": "A hands-on builder and growth helper."
+        }
+      ]
+    },
+    {
+      "slug": "marketing-autopilot",
+      "name": "Marketing on Autopilot Pack",
+      "tagline": "Posts, newsletters, ads and promotion that keep running.",
+      "description": "A newsletter that writes itself, social posting on a schedule, ads with weekly reports and free-channel promotion, all with your approval on anything public or paid.",
+      "url": "https://flyhigh-bots.vercel.app/packs/marketing-autopilot",
+      "free": true,
+      "image": "https://flyhigh-bots.vercel.app/packs/img/marketing-autopilot.webp",
+      "imageJpg": "https://flyhigh-bots.vercel.app/packs/img/marketing-autopilot-og.jpg",
+      "imageAlt": "Glowing autopilot orb sending out neon signal waves with floating envelopes and chat bubbles",
+      "templateIds": [
+        "XQC6zUaDPyI9SThL2R0ej",
+        "Sr3XiT6tmeR8yCJ_POzhW",
+        "jysIiwKDSu4ztUipfNGAq",
+        "2gjs4TvtSZeWdu0V5By9z",
+        "8BtRVnoPzIY5U_FOf3hMZ",
+        "T4hPZmv7opPaFWZUtmdf6",
+        "JysUnWSCgQfv1L0g5H-AY"
+      ],
+      "templates": [
+        {
+          "id": "XQC6zUaDPyI9SThL2R0ej",
+          "name": "Newsletter Autopilot",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/XQC6zUaDPyI9SThL2R0ej",
+          "reason": "Runs your newsletter",
+          "summary": "Runs your email newsletter on autopilot."
+        },
+        {
+          "id": "Sr3XiT6tmeR8yCJ_POzhW",
+          "name": "Google Ads Manager",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/Sr3XiT6tmeR8yCJ_POzhW",
+          "reason": "Runs your ads with your approval",
+          "summary": "Sets up and runs Google Ads (Search and Demand Gen) for a small business or website, with weekly spend and results reports."
+        },
+        {
+          "id": "jysIiwKDSu4ztUipfNGAq",
+          "name": "Launch Promoter",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/jysIiwKDSu4ztUipfNGAq",
+          "reason": "Keeps your social feeds busy",
+          "summary": "Promotes your product, book or site through free channels: fixes store pages first, then drafts directory listings, helpful Quora answers, Medium…"
+        },
+        {
+          "id": "2gjs4TvtSZeWdu0V5By9z",
+          "name": "Workshop Launch & Ads Manager",
+          "category": "Marketing",
+          "shareUrl": "https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z",
+          "reason": "Runs your ads with your approval",
+          "summary": "Launches a paid live online workshop or buildathon end to end: landing page with seats and local-currency prices, checkout, country funnel tests,…"
+        },
+        {
+          "id": "8BtRVnoPzIY5U_FOf3hMZ",
+          "name": "X Growth Auto-Poster",
+          "category": "Social Media",
+          "shareUrl": "https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ",
+          "reason": "Keeps your social feeds busy",
+          "summary": "Runs a hands-off daily X posting schedule: same-day AI news posts, tool reviews and a capped number of product soft-sells, written in a human voice."
+        },
+        {
+          "id": "T4hPZmv7opPaFWZUtmdf6",
+          "name": "AI Film & Music Video Studio",
+          "category": "Creative",
+          "shareUrl": "https://x.ai/bot/T4hPZmv7opPaFWZUtmdf6",
+          "reason": "Keeps your social feeds busy",
+          "summary": "Turns your novel, script or song into video with free tools: cinematic scenes with a voice for each character, beat-synced lyric videos with…"
+        },
+        {
+          "id": "JysUnWSCgQfv1L0g5H-AY",
+          "name": "Instagram",
+          "category": "Social Media",
+          "shareUrl": "https://x.ai/bot/JysUnWSCgQfv1L0g5H-AY",
+          "reason": "Keeps your social feeds busy",
+          "summary": "Makes and posts AI-generated reels and music-video posts for your Instagram and YouTube pages with free tools."
+        }
+      ]
+    },
+    {
+      "slug": "finance-trading",
+      "name": "Finance & Trading Pack",
+      "tagline": "Research markets and keep a clean trade journal.",
+      "description": "For traders and investors who want pre-market briefs, watchlist alerts, stock and crypto research, trade plans and a journal — without replacing their broker.",
+      "url": "https://flyhigh-bots.vercel.app/packs/finance-trading",
+      "free": true,
+      "image": "https://flyhigh-bots.vercel.app/packs/img/finance-trading.webp",
+      "imageJpg": "https://flyhigh-bots.vercel.app/packs/img/finance-trading-og.jpg",
+      "imageAlt": "Glass Ethereum coin ringed by neon candlestick charts in deep space",
+      "templateIds": [
+        "jxKUCaf158ut-7XwSQ_u4"
+      ],
+      "templates": [
+        {
+          "id": "jxKUCaf158ut-7XwSQ_u4",
+          "name": "Stock & Crypto Trader",
+          "category": "Finance",
+          "shareUrl": "https://x.ai/bot/jxKUCaf158ut-7XwSQ_u4",
+          "reason": "Researches stocks and crypto with you",
+          "summary": "A trading research assistant for stocks and crypto: pre-market briefs, watchlist price alerts, stock and coin research, trade plans and a trade…"
+        }
+      ]
+    },
+    {
+      "slug": "compliance-legal",
+      "name": "Compliance & Legal Pack",
+      "tagline": "Source-checked compliance work and a safer site.",
+      "description": "Build compliance kits checked against official sources, get policy pages ready for payment approval, and keep your site and accounts safer.",
+      "url": "https://flyhigh-bots.vercel.app/packs/compliance-legal",
+      "free": true,
+      "image": "https://flyhigh-bots.vercel.app/packs/img/compliance-legal.webp",
+      "imageJpg": "https://flyhigh-bots.vercel.app/packs/img/compliance-legal-og.jpg",
+      "imageAlt": "Glass scales of justice above a crystal shield next to a glowing sealed document",
+      "templateIds": [
+        "0e9DsH6BB8b8XXUz5p0dB",
+        "0n2IqEnQ_0bUvP6VfPld2",
+        "uZa09Jz7CzA_yDqgCNw5a",
+        "VM3fu8RV178aDO4nvAnL_",
+        "0qonAc5ADQm9BI2BCzdZu",
+        "TX2ZhJLa79nQNVSj3wo8w",
+        "oCVleI40-dWX-OHJbvkMs",
+        "rQNHwYOSK8_qsoiW9ro8Z",
+        "Bwul3tQqYCM5iYBVyBHdC",
+        "28-3rWvVH4b3GpRZCmogQ"
+      ],
+      "templates": [
+        {
+          "id": "0e9DsH6BB8b8XXUz5p0dB",
+          "name": "Data Protection Officer",
+          "category": "Legal",
+          "shareUrl": "https://x.ai/bot/0e9DsH6BB8b8XXUz5p0dB",
+          "reason": "Does the legal work with you",
+          "summary": "A privacy compliance assistant for India's DPDP Act, GDPR, CCPA and similar laws: data maps and records of processing, DPIAs, consent and notice…"
+        },
+        {
+          "id": "0n2IqEnQ_0bUvP6VfPld2",
+          "name": "AI Legal Counsel",
+          "category": "Legal",
+          "shareUrl": "https://x.ai/bot/0n2IqEnQ_0bUvP6VfPld2",
+          "reason": "Does the legal work with you",
+          "summary": "An in-house legal counsel assistant for startups and small businesses."
+        },
+        {
+          "id": "uZa09Jz7CzA_yDqgCNw5a",
+          "name": "Chief Legal Officer",
+          "category": "Legal",
+          "shareUrl": "https://x.ai/bot/uZa09Jz7CzA_yDqgCNw5a",
+          "reason": "Does the legal work with you",
+          "summary": "A strategic assistant for General Counsel and CLOs: legal risk registers, compliance calendars, sourced regulatory change watch, board briefs,…"
+        },
+        {
+          "id": "VM3fu8RV178aDO4nvAnL_",
+          "name": "Contract Review & Drafting",
+          "category": "Legal",
+          "shareUrl": "https://x.ai/bot/VM3fu8RV178aDO4nvAnL_",
+          "reason": "Does the legal work with you",
+          "summary": "Reviews contracts clause by clause against your playbook, rates risk, and produces a redlined DOCX plus a negotiation summary."
+        },
+        {
+          "id": "0qonAc5ADQm9BI2BCzdZu",
+          "name": "Legal Research Assistant",
+          "category": "Legal",
+          "shareUrl": "https://x.ai/bot/0qonAc5ADQm9BI2BCzdZu",
+          "reason": "Does the legal work with you",
+          "summary": "Researches legal questions from official and public sources (statutes, regulations, case law, regulator guidance) and writes cited research memos…"
+        },
+        {
+          "id": "TX2ZhJLa79nQNVSj3wo8w",
+          "name": "Litigation Case Manager",
+          "category": "Legal",
+          "shareUrl": "https://x.ai/bot/TX2ZhJLa79nQNVSj3wo8w",
+          "reason": "Does the legal work with you",
+          "summary": "Keeps litigation and dispute matters organised for lawyers and legal teams: case diary with hearings and limitation deadlines, evidence indexes,…"
+        },
+        {
+          "id": "oCVleI40-dWX-OHJbvkMs",
+          "name": "Trust & Safety Response",
+          "category": "Legal",
+          "shareUrl": "https://x.ai/bot/oCVleI40-dWX-OHJbvkMs",
+          "reason": "Does the legal work with you",
+          "summary": "Supports Trust & Safety and law enforcement response teams: triages user reports and legal requests, checks validity and jurisdiction, drafts…"
+        },
+        {
+          "id": "rQNHwYOSK8_qsoiW9ro8Z",
+          "name": "Payment Go-Live & Site Hardening",
+          "category": "Developer Tools",
+          "shareUrl": "https://x.ai/bot/rQNHwYOSK8_qsoiW9ro8Z",
+          "reason": "Handles compliance and legal groundwork",
+          "summary": "Gets a small business website approved by a payment gateway like Razorpay, Cashfree or Stripe: policy pages, seller and grievance details, a…"
+        },
+        {
+          "id": "Bwul3tQqYCM5iYBVyBHdC",
+          "name": "Compliance Toolkit Builder",
+          "category": "Business",
+          "shareUrl": "https://x.ai/bot/Bwul3tQqYCM5iYBVyBHdC",
+          "reason": "Handles compliance and legal groundwork",
+          "summary": "Builds professional compliance kits (guide, fill-in templates, checklists and a quick-reference card) for any law or regulation, with every legal…"
+        },
+        {
+          "id": "28-3rWvVH4b3GpRZCmogQ",
+          "name": "Security Watch",
+          "category": "Developer Tools",
+          "shareUrl": "https://x.ai/bot/28-3rWvVH4b3GpRZCmogQ",
+          "reason": "Keeps your site and accounts safer",
+          "summary": "A defensive security assistant for small sites and apps."
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "id": "jxKUCaf158ut-7XwSQ_u4",
+      "name": "Stock & Crypto Trader",
+      "category": "Finance",
+      "shareUrl": "https://x.ai/bot/jxKUCaf158ut-7XwSQ_u4",
+      "image": "https://x.ai/bot/jxKUCaf158ut-7XwSQ_u4/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-11-06",
+      "description": "A trading research assistant for stocks and crypto: pre-market briefs, watchlist price alerts, stock and coin research, trade plans and a trade journal. You make every trade yourself; it never trades for you.",
+      "summary": "A trading research assistant for stocks and crypto: pre-market briefs, watchlist price alerts, stock and coin research, trade plans and a trade…",
+      "tags": [
+        "research",
+        "trading"
+      ]
+    },
+    {
+      "id": "T4hPZmv7opPaFWZUtmdf6",
+      "name": "AI Film & Music Video Studio",
+      "category": "Creative",
+      "shareUrl": "https://x.ai/bot/T4hPZmv7opPaFWZUtmdf6",
+      "image": "https://x.ai/bot/T4hPZmv7opPaFWZUtmdf6/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Turns your novel, script or song into video with free tools: cinematic scenes with a voice for each character, beat-synced lyric videos with subtitles, vertical reel cut-downs, and YouTube upload prep. Uses only material you have rights to and never uploads without your yes.",
+      "summary": "Turns your novel, script or song into video with free tools: cinematic scenes with a voice for each character, beat-synced lyric videos with…",
+      "tags": [
+        "social",
+        "video"
+      ]
+    },
+    {
+      "id": "0n2IqEnQ_0bUvP6VfPld2",
+      "name": "AI Legal Counsel",
+      "category": "Legal",
+      "shareUrl": "https://x.ai/bot/0n2IqEnQ_0bUvP6VfPld2",
+      "image": "https://x.ai/bot/0n2IqEnQ_0bUvP6VfPld2/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "An in-house legal counsel assistant for startups and small businesses. It reviews contracts, drafts NDAs, agreements, privacy policies and terms, answers legal questions with cited sources, and keeps a risk log. Everything it writes is a draft for a qualified lawyer to review.",
+      "summary": "An in-house legal counsel assistant for startups and small businesses.",
+      "tags": [
+        "compliance",
+        "legal"
+      ]
+    },
+    {
+      "id": "ytSNYfWUClsFsSB66bjvl",
+      "name": "Astrology Site Builder",
+      "category": "Developer Tools",
+      "shareUrl": "https://x.ai/bot/ytSNYfWUClsFsSB66bjvl",
+      "image": "https://x.ai/bot/ytSNYfWUClsFsSB66bjvl/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Builds and runs an astrology website for you: a free kundli tool, paid reports, astrologer consultations, festival and rashi content, multilingual pages, checkout, SEO and QA. Nothing goes live and no payments are taken without your yes.",
+      "summary": "Builds and runs an astrology website for you: a free kundli tool, paid reports, astrologer consultations, festival and rashi content, multilingual…",
+      "tags": [
+        "website",
+        "seo",
+        "qa",
+        "payments",
+        "astrology"
+      ]
+    },
+    {
+      "id": "iVHerKbstiZv-86EUEaOh",
+      "name": "Book Author & KDP Publisher",
+      "category": "Publishing",
+      "shareUrl": "https://x.ai/bot/iVHerKbstiZv-86EUEaOh",
+      "image": "https://x.ai/bot/iVHerKbstiZv-86EUEaOh/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Turns your expertise or story into a finished book (exam-prep guide, non-fiction or novel) and ends in a ready-to-upload Amazon KDP pack with interior PDF, paperback and hardcover cover wraps, and Kindle files and metadata. It never invents facts or credentials, and it never publishes without your yes.",
+      "summary": "Turns your expertise or story into a finished book (exam-prep guide, non-fiction or novel) and ends in a ready-to-upload Amazon KDP pack with…",
+      "tags": [
+        "book"
+      ]
+    },
+    {
+      "id": "uZa09Jz7CzA_yDqgCNw5a",
+      "name": "Chief Legal Officer",
+      "category": "Legal",
+      "shareUrl": "https://x.ai/bot/uZa09Jz7CzA_yDqgCNw5a",
+      "image": "https://x.ai/bot/uZa09Jz7CzA_yDqgCNw5a/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "A strategic assistant for General Counsel and CLOs: legal risk registers, compliance calendars, sourced regulatory change watch, board briefs, policy drafts, matter and outside-counsel tracking, and legal budget and KPI dashboards. Everything is drafted for the legal team's review.",
+      "summary": "A strategic assistant for General Counsel and CLOs: legal risk registers, compliance calendars, sourced regulatory change watch, board briefs,…",
+      "tags": [
+        "compliance",
+        "legal"
+      ]
+    },
+    {
+      "id": "Bwul3tQqYCM5iYBVyBHdC",
+      "name": "Compliance Toolkit Builder",
+      "category": "Business",
+      "shareUrl": "https://x.ai/bot/Bwul3tQqYCM5iYBVyBHdC",
+      "image": "https://x.ai/bot/Bwul3tQqYCM5iYBVyBHdC/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Builds professional compliance kits (guide, fill-in templates, checklists and a quick-reference card) for any law or regulation, with every legal claim checked against downloaded official sources by an automated audit. Also makes the cover, ZIP and product-page copy. Not legal advice.",
+      "summary": "Builds professional compliance kits (guide, fill-in templates, checklists and a quick-reference card) for any law or regulation, with every legal…",
+      "tags": [
+        "products",
+        "compliance"
+      ]
+    },
+    {
+      "id": "VM3fu8RV178aDO4nvAnL_",
+      "name": "Contract Review & Drafting",
+      "category": "Legal",
+      "shareUrl": "https://x.ai/bot/VM3fu8RV178aDO4nvAnL_",
+      "image": "https://x.ai/bot/VM3fu8RV178aDO4nvAnL_/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Reviews contracts clause by clause against your playbook, rates risk, and produces a redlined DOCX plus a negotiation summary. It also drafts NDAs, MSAs, SOWs, DPAs, employment and vendor agreements, all labelled as drafts for a lawyer to review.",
+      "summary": "Reviews contracts clause by clause against your playbook, rates risk, and produces a redlined DOCX plus a negotiation summary.",
+      "tags": [
+        "compliance",
+        "legal"
+      ]
+    },
+    {
+      "id": "y76EVfCckjxia46t3oD1P",
+      "name": "COS · Chief of Staff",
+      "category": "Productivity",
+      "shareUrl": "https://x.ai/bot/y76EVfCckjxia46t3oD1P",
+      "image": "https://x.ai/bot/y76EVfCckjxia46t3oD1P/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "A chief of staff for people who run several Grok Bots. It keeps a live dashboard of what every bot is doing, routes each new task to the best bot for it, and flags anything that breaks your standing orders.",
+      "summary": "A chief of staff for people who run several Grok Bots.",
+      "tags": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "TQSKNQ4yxMy0f1SoJp_Nr",
+      "name": "Course Developer",
+      "category": "Education",
+      "shareUrl": "https://x.ai/bot/TQSKNQ4yxMy0f1SoJp_Nr",
+      "image": "https://x.ai/bot/TQSKNQ4yxMy0f1SoJp_Nr/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Builds and publishes online video courses end to end: research, scripts, narrated slide videos, captions, notes, Udemy uploads, review fixes and bundles. For instructors and experts who want courses shipped without the busywork.",
+      "summary": "Builds and publishes online video courses end to end: research, scripts, narrated slide videos, captions, notes, Udemy uploads, review fixes and…",
+      "tags": [
+        "course",
+        "research"
+      ]
+    },
+    {
+      "id": "0e9DsH6BB8b8XXUz5p0dB",
+      "name": "Data Protection Officer",
+      "category": "Legal",
+      "shareUrl": "https://x.ai/bot/0e9DsH6BB8b8XXUz5p0dB",
+      "image": "https://x.ai/bot/0e9DsH6BB8b8XXUz5p0dB/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "A privacy compliance assistant for India's DPDP Act, GDPR, CCPA and similar laws: data maps and records of processing, DPIAs, consent and notice reviews, data subject requests, breach playbooks, vendor DPA checks and a compliance calendar. Everything is drafted for a qualified privacy professional to review.",
+      "summary": "A privacy compliance assistant for India's DPDP Act, GDPR, CCPA and similar laws: data maps and records of processing, DPIAs, consent and notice…",
+      "tags": [
+        "security",
+        "compliance",
+        "legal"
+      ]
+    },
+    {
+      "id": "9ArJ-aBLvVLytHkmesoMp",
+      "name": "Digital Product Factory",
+      "category": "Business",
+      "shareUrl": "https://x.ai/bot/9ArJ-aBLvVLytHkmesoMp",
+      "image": "https://x.ai/bot/9ArJ-aBLvVLytHkmesoMp/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Plans and mass-produces original digital product packs in your niche: each pack a PDF guide, Word templates, an Excel tracker and a slide deck, built in batches with automatic quality checks and an upload manifest for your store. It never lists or sells without your yes.",
+      "summary": "Plans and mass-produces original digital product packs in your niche: each pack a PDF guide, Word templates, an Excel tracker and a slide deck,…",
+      "tags": [
+        "products"
+      ]
+    },
+    {
+      "id": "fogbsjBp7WD2alude46jf",
+      "name": "Digital Product Store Publisher",
+      "category": "Business",
+      "shareUrl": "https://x.ai/bot/fogbsjBp7WD2alude46jf",
+      "image": "https://x.ai/bot/fogbsjBp7WD2alude46jf/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Lists your ebooks, study guides and kits on Topmate, Instamojo, Payhip or Gumroad, checks each live page, and sends you the links.",
+      "summary": "Lists your ebooks, study guides and kits on Topmate, Instamojo, Payhip or Gumroad, checks each live page, and sends you the links.",
+      "tags": [
+        "products"
+      ]
+    },
+    {
+      "id": "uZAGOFzg39b_R-b7-42Qp",
+      "name": "Digital Store Publisher",
+      "category": "Business",
+      "shareUrl": "https://x.ai/bot/uZAGOFzg39b_R-b7-42Qp",
+      "image": "https://x.ai/bot/uZAGOFzg39b_R-b7-42Qp/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Lists your ebooks, study guides, templates and kits on creator storefronts like Gumroad, Payhip, Topmate and Instamojo, checks each live page, and sends you the links. For creators who sell digital products.",
+      "summary": "Lists your ebooks, study guides, templates and kits on creator storefronts like Gumroad, Payhip, Topmate and Instamojo, checks each live page, and…",
+      "tags": [
+        "products"
+      ]
+    },
+    {
+      "id": "5WJkK7JvQnU3dOW8k1Yxb",
+      "name": "Freelance Gig Manager",
+      "category": "Business",
+      "shareUrl": "https://x.ai/bot/5WJkK7JvQnU3dOW8k1Yxb",
+      "image": "https://x.ai/bot/5WJkK7JvQnU3dOW8k1Yxb/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Runs a freelancer's business on Fiverr, Upwork and Freelancer.com: optimises profiles and gigs, finds matching jobs, drafts proposals and client replies, tracks deadlines and sends a weekly earnings summary. Nothing goes out without your approval.",
+      "summary": "Runs a freelancer's business on Fiverr, Upwork and Freelancer.com: optimises profiles and gigs, finds matching jobs, drafts proposals and client…",
+      "tags": [
+        "jobs"
+      ]
+    },
+    {
+      "id": "WlSJx_DDaSB4vvDBPqrOP",
+      "name": "Game",
+      "category": "Developer Tools",
+      "shareUrl": "https://x.ai/bot/WlSJx_DDaSB4vvDBPqrOP",
+      "image": "https://x.ai/bot/WlSJx_DDaSB4vvDBPqrOP/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "A hands-on builder and growth helper. It builds and publishes small web apps and prototypes, and audits cold-outreach campaigns to work out why they aren't bringing in clients.",
+      "summary": "A hands-on builder and growth helper.",
+      "tags": [
+        "website",
+        "apps",
+        "outreach"
+      ]
+    },
+    {
+      "id": "Sr3XiT6tmeR8yCJ_POzhW",
+      "name": "Google Ads Manager",
+      "category": "Marketing",
+      "shareUrl": "https://x.ai/bot/Sr3XiT6tmeR8yCJ_POzhW",
+      "image": "https://x.ai/bot/Sr3XiT6tmeR8yCJ_POzhW/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Sets up and runs Google Ads (Search and Demand Gen) for a small business or website, with weekly spend and results reports. It never raises a budget or makes a payment without the owner's approval.",
+      "summary": "Sets up and runs Google Ads (Search and Demand Gen) for a small business or website, with weekly spend and results reports.",
+      "tags": [
+        "ads",
+        "website"
+      ]
+    },
+    {
+      "id": "fmMBooBixWXTk_tjpKG_J",
+      "name": "Immigration & Global Careers",
+      "category": "Careers",
+      "shareUrl": "https://x.ai/bot/fmMBooBixWXTk_tjpKG_J",
+      "image": "https://x.ai/bot/fmMBooBixWXTk_tjpKG_J/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "A long-term immigration, visa, permanent-settlement and international jobs consultant that builds a practical move-abroad plan for your profile and tailors honest resumes for overseas roles.",
+      "summary": "A long-term immigration, visa, permanent-settlement and international jobs consultant that builds a practical move-abroad plan for your profile…",
+      "tags": [
+        "jobs",
+        "immigration"
+      ]
+    },
+    {
+      "id": "JysUnWSCgQfv1L0g5H-AY",
+      "name": "Instagram",
+      "category": "Social Media",
+      "shareUrl": "https://x.ai/bot/JysUnWSCgQfv1L0g5H-AY",
+      "image": "https://x.ai/bot/JysUnWSCgQfv1L0g5H-AY/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Makes and posts AI-generated reels and music-video posts for your Instagram and YouTube pages with free tools. For creators who want a steady flow of viral-style content.",
+      "summary": "Makes and posts AI-generated reels and music-video posts for your Instagram and YouTube pages with free tools.",
+      "tags": [
+        "social",
+        "video"
+      ]
+    },
+    {
+      "id": "d97BHkpFYDFAQecsJJ-Z6",
+      "name": "Job Apply Assistant",
+      "category": "Careers",
+      "shareUrl": "https://x.ai/bot/d97BHkpFYDFAQecsJJ-Z6",
+      "image": "https://x.ai/bot/d97BHkpFYDFAQecsJJ-Z6/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Applies to jobs for you every day on LinkedIn Easy Apply and Naukri, using your saved resumes and standard answers, and sends one short daily summary.",
+      "summary": "Applies to jobs for you every day on LinkedIn Easy Apply and Naukri, using your saved resumes and standard answers, and sends one short daily summary.",
+      "tags": [
+        "jobs"
+      ]
+    },
+    {
+      "id": "jysIiwKDSu4ztUipfNGAq",
+      "name": "Launch Promoter",
+      "category": "Marketing",
+      "shareUrl": "https://x.ai/bot/jysIiwKDSu4ztUipfNGAq",
+      "image": "https://x.ai/bot/jysIiwKDSu4ztUipfNGAq/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Promotes your product, book or site through free channels: fixes store pages first, then drafts directory listings, helpful Quora answers, Medium posts and social banners in every size. Everything is drafted for your review, and nothing posts without your yes.",
+      "summary": "Promotes your product, book or site through free channels: fixes store pages first, then drafts directory listings, helpful Quora answers, Medium…",
+      "tags": [
+        "book",
+        "social",
+        "promotion",
+        "website"
+      ]
+    },
+    {
+      "id": "0qonAc5ADQm9BI2BCzdZu",
+      "name": "Legal Research Assistant",
+      "category": "Legal",
+      "shareUrl": "https://x.ai/bot/0qonAc5ADQm9BI2BCzdZu",
+      "image": "https://x.ai/bot/0qonAc5ADQm9BI2BCzdZu/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Researches legal questions from official and public sources (statutes, regulations, case law, regulator guidance) and writes cited research memos that flag uncertainty. For lawyers, compliance teams and anyone who needs well-sourced legal research support, not legal advice.",
+      "summary": "Researches legal questions from official and public sources (statutes, regulations, case law, regulator guidance) and writes cited research memos…",
+      "tags": [
+        "research",
+        "compliance",
+        "legal"
+      ]
+    },
+    {
+      "id": "TX2ZhJLa79nQNVSj3wo8w",
+      "name": "Litigation Case Manager",
+      "category": "Legal",
+      "shareUrl": "https://x.ai/bot/TX2ZhJLa79nQNVSj3wo8w",
+      "image": "https://x.ai/bot/TX2ZhJLa79nQNVSj3wo8w/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Keeps litigation and dispute matters organised for lawyers and legal teams: case diary with hearings and limitation deadlines, evidence indexes, chronologies, draft pleadings, notices and briefs, opposing-arguments notes and client status reports. Every citation is verified and all work is labelled as a draft for counsel.",
+      "summary": "Keeps litigation and dispute matters organised for lawyers and legal teams: case diary with hearings and limitation deadlines, evidence indexes,…",
+      "tags": [
+        "compliance",
+        "legal"
+      ]
+    },
+    {
+      "id": "TSIhtgwFXxdxeT3JIZFPo",
+      "name": "Market & Niche Researcher",
+      "category": "Business",
+      "shareUrl": "https://x.ai/bot/TSIhtgwFXxdxeT3JIZFPo",
+      "image": "https://x.ai/bot/TSIhtgwFXxdxeT3JIZFPo/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Finds what to sell next. Ranks book, course and digital-product ideas in your niche by demand, competition and fit using public marketplace data, and delivers a source-cited report with a shortlist.",
+      "summary": "Finds what to sell next.",
+      "tags": [
+        "book",
+        "products",
+        "research"
+      ]
+    },
+    {
+      "id": "6kZwp2qI3WTst82FmIHU4",
+      "name": "Money Maker",
+      "category": "Business",
+      "shareUrl": "https://x.ai/bot/6kZwp2qI3WTst82FmIHU4",
+      "image": "https://x.ai/bot/6kZwp2qI3WTst82FmIHU4/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Turns your expertise into income: lists your ebooks and study guides on creator storefronts, sets up payment links, and builds and submits AI-narrated online courses with source-checked content.",
+      "summary": "Turns your expertise into income: lists your ebooks and study guides on creator storefronts, sets up payment links, and builds and submits…",
+      "tags": [
+        "course",
+        "products",
+        "payments",
+        "income"
+      ]
+    },
+    {
+      "id": "XQC6zUaDPyI9SThL2R0ej",
+      "name": "Newsletter Autopilot",
+      "category": "Marketing",
+      "shareUrl": "https://x.ai/bot/XQC6zUaDPyI9SThL2R0ej",
+      "image": "https://x.ai/bot/XQC6zUaDPyI9SThL2R0ej/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Runs your email newsletter on autopilot. It pulls your news feeds, picks the top stories, writes an original issue in your voice, checks it for accuracy and quality, and sends it daily or weekly to your subscriber list.",
+      "summary": "Runs your email newsletter on autopilot.",
+      "tags": [
+        "newsletter"
+      ]
+    },
+    {
+      "id": "rQNHwYOSK8_qsoiW9ro8Z",
+      "name": "Payment Go-Live & Site Hardening",
+      "category": "Developer Tools",
+      "shareUrl": "https://x.ai/bot/rQNHwYOSK8_qsoiW9ro8Z",
+      "image": "https://x.ai/bot/rQNHwYOSK8_qsoiW9ro8Z/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Gets a small business website approved by a payment gateway like Razorpay, Cashfree or Stripe: policy pages, seller and grievance details, a sample invoice and the exact dashboard entries. Then adds security headers and a CSP and proves checkout still works, never submitting anything without your yes.",
+      "summary": "Gets a small business website approved by a payment gateway like Razorpay, Cashfree or Stripe: policy pages, seller and grievance details, a…",
+      "tags": [
+        "website",
+        "security",
+        "payments",
+        "compliance"
+      ]
+    },
+    {
+      "id": "28-3rWvVH4b3GpRZCmogQ",
+      "name": "Security Watch",
+      "category": "Developer Tools",
+      "shareUrl": "https://x.ai/bot/28-3rWvVH4b3GpRZCmogQ",
+      "image": "https://x.ai/bot/28-3rWvVH4b3GpRZCmogQ/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "A defensive security assistant for small sites and apps. It runs safe, passive scans of sites you own and gives copy-paste fixes, checks your emails and domains against known breaches, and sends a plain-English feed of current attacks with official advisories. It never scans anything you don't own and never does offensive testing.",
+      "summary": "A defensive security assistant for small sites and apps.",
+      "tags": [
+        "website",
+        "security"
+      ]
+    },
+    {
+      "id": "oCVleI40-dWX-OHJbvkMs",
+      "name": "Trust & Safety Response",
+      "category": "Legal",
+      "shareUrl": "https://x.ai/bot/oCVleI40-dWX-OHJbvkMs",
+      "image": "https://x.ai/bot/oCVleI40-dWX-OHJbvkMs/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Supports Trust & Safety and law enforcement response teams: triages user reports and legal requests, checks validity and jurisdiction, drafts responses and disclosure packages for human approval, tracks SLAs, and builds transparency report stats.",
+      "summary": "Supports Trust & Safety and law enforcement response teams: triages user reports and legal requests, checks validity and jurisdiction, drafts…",
+      "tags": [
+        "compliance",
+        "legal"
+      ]
+    },
+    {
+      "id": "uhwgH3PTCTCvztpnYt7AY",
+      "name": "Udemy Course Uploader",
+      "category": "Education",
+      "shareUrl": "https://x.ai/bot/uhwgH3PTCTCvztpnYt7AY",
+      "image": "https://x.ai/bot/uhwgH3PTCTCvztpnYt7AY/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Uploads and replaces lecture videos in your Udemy courses, checks each one plays, and sends you a status table.",
+      "summary": "Uploads and replaces lecture videos in your Udemy courses, checks each one plays, and sends you a status table.",
+      "tags": [
+        "course"
+      ]
+    },
+    {
+      "id": "UWgpKufqvArLLwM8QEds_",
+      "name": "Website QA Checker",
+      "category": "Developer Tools",
+      "shareUrl": "https://x.ai/bot/UWgpKufqvArLLwM8QEds_",
+      "image": "https://x.ai/bot/UWgpKufqvArLLwM8QEds_/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Tests your website for broken links, broken flows, mobile layout, SEO basics and typos, then sends a bug report ranked by severity.",
+      "summary": "Tests your website for broken links, broken flows, mobile layout, SEO basics and typos, then sends a bug report ranked by severity.",
+      "tags": [
+        "website",
+        "seo",
+        "qa"
+      ]
+    },
+    {
+      "id": "2gjs4TvtSZeWdu0V5By9z",
+      "name": "Workshop Launch & Ads Manager",
+      "category": "Marketing",
+      "shareUrl": "https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z",
+      "image": "https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Launches a paid live online workshop or buildathon end to end: landing page with seats and local-currency prices, checkout, country funnel tests, and Google Ads Demand Gen copy and creatives. Never spends money or goes live without your yes.",
+      "summary": "Launches a paid live online workshop or buildathon end to end: landing page with seats and local-currency prices, checkout, country funnel tests,…",
+      "tags": [
+        "workshop",
+        "ads",
+        "website",
+        "payments",
+        "income"
+      ]
+    },
+    {
+      "id": "8BtRVnoPzIY5U_FOf3hMZ",
+      "name": "X Growth Auto-Poster",
+      "category": "Social Media",
+      "shareUrl": "https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ",
+      "image": "https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-10-31",
+      "description": "Runs a hands-off daily X posting schedule: same-day AI news posts, tool reviews and a capped number of product soft-sells, written in a human voice. For creators growing an audience while selling digital products.",
+      "summary": "Runs a hands-off daily X posting schedule: same-day AI news posts, tool reviews and a capped number of product soft-sells, written in a human voice.",
+      "tags": [
+        "products",
+        "social",
+        "promotion"
+      ]
+    }
+  ],
+  "finder": {
+    "tags": {
+      "jobs": {
+        "reason": "Speeds up your job hunt",
+        "words": [
+          "job",
+          "jobs",
+          "resume",
+          "cv",
+          "hiring",
+          "interview",
+          "apply",
+          "applications",
+          "job seeker",
+          "career",
+          "naukri",
+          "linkedin",
+          "unemployed",
+          "fresher"
+        ]
+      },
+      "immigration": {
+        "reason": "Plans your move abroad",
+        "words": [
+          "visa",
+          "immigration",
+          "abroad",
+          "overseas",
+          "relocate",
+          "relocation",
+          "move abroad",
+          "pr",
+          "permanent residence",
+          "migrate",
+          "international jobs"
+        ]
+      },
+      "course": {
+        "reason": "Builds and ships your courses",
+        "words": [
+          "course",
+          "courses",
+          "udemy",
+          "teach",
+          "teacher",
+          "tutor",
+          "instructor",
+          "lecture",
+          "lectures",
+          "training",
+          "educator",
+          "edtech",
+          "coach",
+          "coaching"
+        ]
+      },
+      "workshop": {
+        "reason": "Launches paid live workshops",
+        "words": [
+          "workshop",
+          "workshops",
+          "webinar",
+          "bootcamp",
+          "cohort",
+          "live class",
+          "masterclass",
+          "event",
+          "buildathon",
+          "coach",
+          "coaching"
+        ]
+      },
+      "book": {
+        "reason": "Turns your know-how into a book",
+        "words": [
+          "book",
+          "books",
+          "author",
+          "writer",
+          "write",
+          "kindle",
+          "kdp",
+          "novel",
+          "publish",
+          "publishing",
+          "ebook",
+          "ebooks"
+        ]
+      },
+      "products": {
+        "reason": "Helps you make and sell digital products",
+        "words": [
+          "digital product",
+          "digital products",
+          "ebook",
+          "ebooks",
+          "templates",
+          "gumroad",
+          "payhip",
+          "topmate",
+          "instamojo",
+          "sell online",
+          "passive income",
+          "side hustle",
+          "study guide",
+          "printables",
+          "notion"
+        ]
+      },
+      "research": {
+        "reason": "Finds what is worth selling",
+        "words": [
+          "research",
+          "niche",
+          "idea",
+          "ideas",
+          "what to sell",
+          "market",
+          "demand",
+          "validate",
+          "trend",
+          "trends"
+        ]
+      },
+      "social": {
+        "reason": "Keeps your social feeds busy",
+        "words": [
+          "social",
+          "social media",
+          "instagram",
+          "insta",
+          "reels",
+          "youtube",
+          "x",
+          "twitter",
+          "tweets",
+          "followers",
+          "audience",
+          "influencer",
+          "content",
+          "posts",
+          "creator",
+          "tiktok"
+        ]
+      },
+      "video": {
+        "reason": "Makes videos for you",
+        "words": [
+          "video",
+          "videos",
+          "film",
+          "reel",
+          "reels",
+          "youtube",
+          "music",
+          "song",
+          "musician",
+          "singer",
+          "animation",
+          "shorts"
+        ]
+      },
+      "newsletter": {
+        "reason": "Runs your newsletter",
+        "words": [
+          "newsletter",
+          "email list",
+          "subscribers",
+          "substack",
+          "email marketing",
+          "digest",
+          "news"
+        ]
+      },
+      "ads": {
+        "reason": "Runs your ads with your approval",
+        "words": [
+          "ads",
+          "advertising",
+          "google ads",
+          "ppc",
+          "paid ads",
+          "leads",
+          "lead generation",
+          "campaign",
+          "campaigns",
+          "performance marketing"
+        ]
+      },
+      "promotion": {
+        "reason": "Gets your launch seen for free",
+        "words": [
+          "promote",
+          "promotion",
+          "marketing",
+          "launch",
+          "visibility",
+          "traffic",
+          "grow",
+          "growth",
+          "brand",
+          "branding",
+          "reach",
+          "publicity"
+        ]
+      },
+      "website": {
+        "reason": "Looks after your website",
+        "words": [
+          "website",
+          "site",
+          "web",
+          "landing page",
+          "webpage",
+          "online presence",
+          "wordpress",
+          "shopify",
+          "domain",
+          "blog"
+        ]
+      },
+      "seo": {
+        "reason": "Helps your site get found",
+        "words": [
+          "seo",
+          "google ranking",
+          "rank on google",
+          "search engine",
+          "organic traffic"
+        ]
+      },
+      "qa": {
+        "reason": "Catches bugs before customers do",
+        "words": [
+          "qa",
+          "testing",
+          "test",
+          "bugs",
+          "broken links",
+          "quality",
+          "audit",
+          "check my site"
+        ]
+      },
+      "security": {
+        "reason": "Keeps your site and accounts safer",
+        "words": [
+          "security",
+          "secure",
+          "hack",
+          "hacked",
+          "breach",
+          "cyber",
+          "cybersecurity",
+          "malware",
+          "safety",
+          "protect"
+        ]
+      },
+      "payments": {
+        "reason": "Gets you ready to take payments",
+        "words": [
+          "payment",
+          "payments",
+          "razorpay",
+          "cashfree",
+          "stripe",
+          "paypal",
+          "checkout",
+          "accept payments",
+          "gateway",
+          "store",
+          "shop",
+          "ecommerce",
+          "e-commerce"
+        ]
+      },
+      "compliance": {
+        "reason": "Handles compliance and legal groundwork",
+        "words": [
+          "compliance",
+          "legal",
+          "law",
+          "lawyer",
+          "lawyers",
+          "advocate",
+          "attorney",
+          "solicitor",
+          "law firm",
+          "regulation",
+          "regulatory",
+          "gdpr",
+          "dpdp",
+          "privacy",
+          "policy",
+          "policies",
+          "governance",
+          "risk",
+          "audit",
+          "contract",
+          "contracts",
+          "ca",
+          "chartered accountant",
+          "consultant"
+        ]
+      },
+      "legal": {
+        "reason": "Does the legal work with you",
+        "words": [
+          "lawyer",
+          "lawyers",
+          "legal",
+          "law firm",
+          "attorney",
+          "advocate",
+          "solicitor",
+          "counsel",
+          "general counsel",
+          "contract",
+          "contracts",
+          "nda",
+          "ndas",
+          "legal research",
+          "case law",
+          "litigation",
+          "agreement",
+          "agreements",
+          "terms and conditions"
+        ]
+      },
+      "astrology": {
+        "reason": "Runs your astrology website",
+        "words": [
+          "astrology",
+          "astrologer",
+          "kundli",
+          "horoscope",
+          "jyotish",
+          "tarot",
+          "numerology",
+          "vastu",
+          "spiritual",
+          "rashi"
+        ]
+      },
+      "productivity": {
+        "reason": "Keeps all your bots on track",
+        "words": [
+          "productivity",
+          "organise",
+          "organize",
+          "manage bots",
+          "many bots",
+          "assistant",
+          "chief of staff",
+          "busy",
+          "overwhelmed",
+          "delegate",
+          "operations",
+          "founder",
+          "ceo"
+        ]
+      },
+      "apps": {
+        "reason": "Builds small apps and prototypes",
+        "words": [
+          "app",
+          "apps",
+          "prototype",
+          "mvp",
+          "build an app",
+          "saas",
+          "tool",
+          "developer",
+          "developers"
+        ]
+      },
+      "outreach": {
+        "reason": "Fixes outreach that is not landing clients",
+        "words": [
+          "outreach",
+          "cold email",
+          "cold emails",
+          "clients",
+          "client",
+          "lead",
+          "agency",
+          "freelancer",
+          "freelance",
+          "sales",
+          "b2b"
+        ]
+      },
+      "trading": {
+        "reason": "Researches stocks and crypto with you",
+        "words": [
+          "trading",
+          "trade",
+          "trades",
+          "stock",
+          "stocks",
+          "crypto",
+          "cryptocurrency",
+          "bitcoin",
+          "btc",
+          "ethereum",
+          "eth",
+          "share market",
+          "equity",
+          "equities",
+          "forex",
+          "trader",
+          "invest",
+          "investing",
+          "investment",
+          "portfolio",
+          "watchlist",
+          "options"
+        ]
+      },
+      "income": {
+        "reason": "Turns your expertise into income",
+        "words": [
+          "money",
+          "income",
+          "earn",
+          "monetize",
+          "monetise",
+          "revenue",
+          "side income",
+          "make money"
+        ]
+      }
+    },
+    "personas": [
+      {
+        "id": "lawyer",
+        "label": "Lawyer",
+        "words": [
+          "lawyer",
+          "lawyers",
+          "advocate",
+          "attorney",
+          "solicitor",
+          "law firm",
+          "legal",
+          "counsel",
+          "barrister",
+          "law practice"
+        ],
+        "tags": [
+          "legal",
+          "compliance",
+          "security",
+          "newsletter",
+          "website",
+          "book"
+        ]
+      },
+      {
+        "id": "creator",
+        "label": "Creator",
+        "words": [
+          "creator",
+          "creators",
+          "influencer",
+          "youtuber",
+          "content creator",
+          "artist",
+          "musician",
+          "writer"
+        ],
+        "tags": [
+          "social",
+          "video",
+          "newsletter",
+          "promotion",
+          "products",
+          "book"
+        ]
+      },
+      {
+        "id": "coach",
+        "label": "Coach",
+        "words": [
+          "coach",
+          "coaching",
+          "mentor",
+          "trainer",
+          "consultant",
+          "therapist",
+          "teacher",
+          "tutor"
+        ],
+        "tags": [
+          "workshop",
+          "course",
+          "ads",
+          "newsletter",
+          "book",
+          "social"
+        ]
+      },
+      {
+        "id": "ecommerce",
+        "label": "E-commerce",
+        "words": [
+          "ecommerce",
+          "e-commerce",
+          "online store",
+          "shop",
+          "shopify",
+          "d2c",
+          "dropshipping",
+          "store",
+          "seller",
+          "retail"
+        ],
+        "tags": [
+          "payments",
+          "ads",
+          "website",
+          "qa",
+          "security",
+          "seo",
+          "promotion"
+        ]
+      },
+      {
+        "id": "agency",
+        "label": "Agency",
+        "words": [
+          "agency",
+          "agencies",
+          "freelancer",
+          "freelance",
+          "studio",
+          "consultancy",
+          "marketing agency",
+          "services business"
+        ],
+        "tags": [
+          "outreach",
+          "ads",
+          "website",
+          "qa",
+          "seo",
+          "security",
+          "social",
+          "productivity"
+        ]
+      },
+      {
+        "id": "jobseeker",
+        "label": "Job seeker",
+        "words": [
+          "job seeker",
+          "job hunting",
+          "looking for a job",
+          "looking for job",
+          "job search",
+          "unemployed",
+          "fresher",
+          "graduate",
+          "switch jobs",
+          "career change"
+        ],
+        "tags": [
+          "jobs",
+          "immigration"
+        ]
+      },
+      {
+        "id": "courseseller",
+        "label": "Course seller",
+        "words": [
+          "course seller",
+          "sell courses",
+          "online courses",
+          "udemy",
+          "edtech",
+          "instructor",
+          "educator"
+        ],
+        "tags": [
+          "course",
+          "workshop",
+          "research",
+          "ads",
+          "promotion",
+          "products"
+        ]
+      },
+      {
+        "id": "astrologer",
+        "label": "Astrologer",
+        "words": [
+          "astrologer",
+          "astrology",
+          "jyotish",
+          "kundli",
+          "horoscope",
+          "tarot",
+          "numerology",
+          "vastu"
+        ],
+        "tags": [
+          "astrology",
+          "payments",
+          "social",
+          "video",
+          "newsletter",
+          "ads"
+        ]
+      },
+      {
+        "id": "startup",
+        "label": "Startup",
+        "words": [
+          "startup",
+          "start-up",
+          "founder",
+          "saas",
+          "small business",
+          "smb",
+          "mvp",
+          "new business"
+        ],
+        "tags": [
+          "website",
+          "payments",
+          "ads",
+          "security",
+          "promotion",
+          "apps",
+          "newsletter",
+          "productivity"
+        ]
+      }
+    ],
+    "shareParam": "for"
+  }
+}

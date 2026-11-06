@@ -1,0 +1,459 @@
+# Flyhigh Bots: full template catalogue
+
+> Free Grok Bot templates built and published by Flyhigh. To use one, open its x.ai link and add it to your Grok Bot. All templates and packs are free to add; running a bot uses the user's own Grok Bot plan.
+
+Site: https://flyhigh-bots.vercel.app/
+Updated: 2026-11-06T06:05:36.708Z
+
+## Stock & Crypto Trader
+
+- Link: https://x.ai/bot/jxKUCaf158ut-7XwSQ_u4
+- Category: Finance
+- Topics: research, trading
+- Added: 2026-11-06
+- Packs: Finance & Trading Pack
+
+A trading research assistant for stocks and crypto: pre-market briefs, watchlist price alerts, stock and coin research, trade plans and a trade journal. You make every trade yourself; it never trades for you.
+
+## AI Film & Music Video Studio
+
+- Link: https://x.ai/bot/T4hPZmv7opPaFWZUtmdf6
+- Category: Creative
+- Topics: social, video
+- Added: 2026-10-31
+- Packs: Creator Launch Pack, Marketing on Autopilot Pack
+
+Turns your novel, script or song into video with free tools: cinematic scenes with a voice for each character, beat-synced lyric videos with subtitles, vertical reel cut-downs, and YouTube upload prep. Uses only material you have rights to and never uploads without your yes.
+
+## AI Legal Counsel
+
+- Link: https://x.ai/bot/0n2IqEnQ_0bUvP6VfPld2
+- Category: Legal
+- Topics: compliance, legal
+- Added: 2026-10-31
+- Packs: Compliance & Legal Pack
+
+An in-house legal counsel assistant for startups and small businesses. It reviews contracts, drafts NDAs, agreements, privacy policies and terms, answers legal questions with cited sources, and keeps a risk log. Everything it writes is a draft for a qualified lawyer to review.
+
+## Astrology Site Builder
+
+- Link: https://x.ai/bot/ytSNYfWUClsFsSB66bjvl
+- Category: Developer Tools
+- Topics: website, seo, qa, payments, astrology
+- Added: 2026-10-31
+- Packs: none
+
+Builds and runs an astrology website for you: a free kundli tool, paid reports, astrologer consultations, festival and rashi content, multilingual pages, checkout, SEO and QA. Nothing goes live and no payments are taken without your yes.
+
+## Book Author & KDP Publisher
+
+- Link: https://x.ai/bot/iVHerKbstiZv-86EUEaOh
+- Category: Publishing
+- Topics: book
+- Added: 2026-10-31
+- Packs: Course Creator Pack
+
+Turns your expertise or story into a finished book (exam-prep guide, non-fiction or novel) and ends in a ready-to-upload Amazon KDP pack with interior PDF, paperback and hardcover cover wraps, and Kindle files and metadata. It never invents facts or credentials, and it never publishes without your yes.
+
+## Chief Legal Officer
+
+- Link: https://x.ai/bot/uZa09Jz7CzA_yDqgCNw5a
+- Category: Legal
+- Topics: compliance, legal
+- Added: 2026-10-31
+- Packs: Compliance & Legal Pack
+
+A strategic assistant for General Counsel and CLOs: legal risk registers, compliance calendars, sourced regulatory change watch, board briefs, policy drafts, matter and outside-counsel tracking, and legal budget and KPI dashboards. Everything is drafted for the legal team's review.
+
+## Compliance Toolkit Builder
+
+- Link: https://x.ai/bot/Bwul3tQqYCM5iYBVyBHdC
+- Category: Business
+- Topics: products, compliance
+- Added: 2026-10-31
+- Packs: Digital Product Business Pack, Compliance & Legal Pack
+
+Builds professional compliance kits (guide, fill-in templates, checklists and a quick-reference card) for any law or regulation, with every legal claim checked against downloaded official sources by an automated audit. Also makes the cover, ZIP and product-page copy. Not legal advice.
+
+## Contract Review & Drafting
+
+- Link: https://x.ai/bot/VM3fu8RV178aDO4nvAnL_
+- Category: Legal
+- Topics: compliance, legal
+- Added: 2026-10-31
+- Packs: Compliance & Legal Pack
+
+Reviews contracts clause by clause against your playbook, rates risk, and produces a redlined DOCX plus a negotiation summary. It also drafts NDAs, MSAs, SOWs, DPAs, employment and vendor agreements, all labelled as drafts for a lawyer to review.
+
+## COS · Chief of Staff
+
+- Link: https://x.ai/bot/y76EVfCckjxia46t3oD1P
+- Category: Productivity
+- Topics: productivity
+- Added: 2026-10-31
+- Packs: none
+
+A chief of staff for people who run several Grok Bots. It keeps a live dashboard of what every bot is doing, routes each new task to the best bot for it, and flags anything that breaks your standing orders.
+
+## Course Developer
+
+- Link: https://x.ai/bot/TQSKNQ4yxMy0f1SoJp_Nr
+- Category: Education
+- Topics: course, research
+- Added: 2026-10-31
+- Packs: Course Creator Pack
+
+Builds and publishes online video courses end to end: research, scripts, narrated slide videos, captions, notes, Udemy uploads, review fixes and bundles. For instructors and experts who want courses shipped without the busywork.
+
+## Data Protection Officer
+
+- Link: https://x.ai/bot/0e9DsH6BB8b8XXUz5p0dB
+- Category: Legal
+- Topics: security, compliance, legal
+- Added: 2026-10-31
+- Packs: Website Launch & Growth Pack, Compliance & Legal Pack
+
+A privacy compliance assistant for India's DPDP Act, GDPR, CCPA and similar laws: data maps and records of processing, DPIAs, consent and notice reviews, data subject requests, breach playbooks, vendor DPA checks and a compliance calendar. Everything is drafted for a qualified privacy professional to review.
+
+## Digital Product Factory
+
+- Link: https://x.ai/bot/9ArJ-aBLvVLytHkmesoMp
+- Category: Business
+- Topics: products
+- Added: 2026-10-31
+- Packs: Digital Product Business Pack
+
+Plans and mass-produces original digital product packs in your niche: each pack a PDF guide, Word templates, an Excel tracker and a slide deck, built in batches with automatic quality checks and an upload manifest for your store. It never lists or sells without your yes.
+
+## Digital Product Store Publisher
+
+- Link: https://x.ai/bot/fogbsjBp7WD2alude46jf
+- Category: Business
+- Topics: products
+- Added: 2026-10-31
+- Packs: Digital Product Business Pack
+
+Lists your ebooks, study guides and kits on Topmate, Instamojo, Payhip or Gumroad, checks each live page, and sends you the links.
+
+## Digital Store Publisher
+
+- Link: https://x.ai/bot/uZAGOFzg39b_R-b7-42Qp
+- Category: Business
+- Topics: products
+- Added: 2026-10-31
+- Packs: Digital Product Business Pack
+
+Lists your ebooks, study guides, templates and kits on creator storefronts like Gumroad, Payhip, Topmate and Instamojo, checks each live page, and sends you the links. For creators who sell digital products.
+
+## Freelance Gig Manager
+
+- Link: https://x.ai/bot/5WJkK7JvQnU3dOW8k1Yxb
+- Category: Business
+- Topics: jobs
+- Added: 2026-10-31
+- Packs: Career & Job Hunt Pack
+
+Runs a freelancer's business on Fiverr, Upwork and Freelancer.com: optimises profiles and gigs, finds matching jobs, drafts proposals and client replies, tracks deadlines and sends a weekly earnings summary. Nothing goes out without your approval.
+
+## Game
+
+- Link: https://x.ai/bot/WlSJx_DDaSB4vvDBPqrOP
+- Category: Developer Tools
+- Topics: website, apps, outreach
+- Added: 2026-10-31
+- Packs: Website Launch & Growth Pack
+
+A hands-on builder and growth helper. It builds and publishes small web apps and prototypes, and audits cold-outreach campaigns to work out why they aren't bringing in clients.
+
+## Google Ads Manager
+
+- Link: https://x.ai/bot/Sr3XiT6tmeR8yCJ_POzhW
+- Category: Marketing
+- Topics: ads, website
+- Added: 2026-10-31
+- Packs: Website Launch & Growth Pack, Marketing on Autopilot Pack
+
+Sets up and runs Google Ads (Search and Demand Gen) for a small business or website, with weekly spend and results reports. It never raises a budget or makes a payment without the owner's approval.
+
+## Immigration & Global Careers
+
+- Link: https://x.ai/bot/fmMBooBixWXTk_tjpKG_J
+- Category: Careers
+- Topics: jobs, immigration
+- Added: 2026-10-31
+- Packs: Career & Job Hunt Pack
+
+A long-term immigration, visa, permanent-settlement and international jobs consultant that builds a practical move-abroad plan for your profile and tailors honest resumes for overseas roles.
+
+## Instagram
+
+- Link: https://x.ai/bot/JysUnWSCgQfv1L0g5H-AY
+- Category: Social Media
+- Topics: social, video
+- Added: 2026-10-31
+- Packs: Creator Launch Pack, Marketing on Autopilot Pack
+
+Makes and posts AI-generated reels and music-video posts for your Instagram and YouTube pages with free tools. For creators who want a steady flow of viral-style content.
+
+## Job Apply Assistant
+
+- Link: https://x.ai/bot/d97BHkpFYDFAQecsJJ-Z6
+- Category: Careers
+- Topics: jobs
+- Added: 2026-10-31
+- Packs: Career & Job Hunt Pack
+
+Applies to jobs for you every day on LinkedIn Easy Apply and Naukri, using your saved resumes and standard answers, and sends one short daily summary.
+
+## Launch Promoter
+
+- Link: https://x.ai/bot/jysIiwKDSu4ztUipfNGAq
+- Category: Marketing
+- Topics: book, social, promotion, website
+- Added: 2026-10-31
+- Packs: Creator Launch Pack, Course Creator Pack, Marketing on Autopilot Pack
+
+Promotes your product, book or site through free channels: fixes store pages first, then drafts directory listings, helpful Quora answers, Medium posts and social banners in every size. Everything is drafted for your review, and nothing posts without your yes.
+
+## Legal Research Assistant
+
+- Link: https://x.ai/bot/0qonAc5ADQm9BI2BCzdZu
+- Category: Legal
+- Topics: research, compliance, legal
+- Added: 2026-10-31
+- Packs: Compliance & Legal Pack
+
+Researches legal questions from official and public sources (statutes, regulations, case law, regulator guidance) and writes cited research memos that flag uncertainty. For lawyers, compliance teams and anyone who needs well-sourced legal research support, not legal advice.
+
+## Litigation Case Manager
+
+- Link: https://x.ai/bot/TX2ZhJLa79nQNVSj3wo8w
+- Category: Legal
+- Topics: compliance, legal
+- Added: 2026-10-31
+- Packs: Compliance & Legal Pack
+
+Keeps litigation and dispute matters organised for lawyers and legal teams: case diary with hearings and limitation deadlines, evidence indexes, chronologies, draft pleadings, notices and briefs, opposing-arguments notes and client status reports. Every citation is verified and all work is labelled as a draft for counsel.
+
+## Market & Niche Researcher
+
+- Link: https://x.ai/bot/TSIhtgwFXxdxeT3JIZFPo
+- Category: Business
+- Topics: book, products, research
+- Added: 2026-10-31
+- Packs: Digital Product Business Pack, Course Creator Pack
+
+Finds what to sell next. Ranks book, course and digital-product ideas in your niche by demand, competition and fit using public marketplace data, and delivers a source-cited report with a shortlist.
+
+## Money Maker
+
+- Link: https://x.ai/bot/6kZwp2qI3WTst82FmIHU4
+- Category: Business
+- Topics: course, products, payments, income
+- Added: 2026-10-31
+- Packs: Digital Product Business Pack, Course Creator Pack
+
+Turns your expertise into income: lists your ebooks and study guides on creator storefronts, sets up payment links, and builds and submits AI-narrated online courses with source-checked content.
+
+## Newsletter Autopilot
+
+- Link: https://x.ai/bot/XQC6zUaDPyI9SThL2R0ej
+- Category: Marketing
+- Topics: newsletter
+- Added: 2026-10-31
+- Packs: Creator Launch Pack, Marketing on Autopilot Pack
+
+Runs your email newsletter on autopilot. It pulls your news feeds, picks the top stories, writes an original issue in your voice, checks it for accuracy and quality, and sends it daily or weekly to your subscriber list.
+
+## Payment Go-Live & Site Hardening
+
+- Link: https://x.ai/bot/rQNHwYOSK8_qsoiW9ro8Z
+- Category: Developer Tools
+- Topics: website, security, payments, compliance
+- Added: 2026-10-31
+- Packs: Website Launch & Growth Pack, Compliance & Legal Pack
+
+Gets a small business website approved by a payment gateway like Razorpay, Cashfree or Stripe: policy pages, seller and grievance details, a sample invoice and the exact dashboard entries. Then adds security headers and a CSP and proves checkout still works, never submitting anything without your yes.
+
+## Security Watch
+
+- Link: https://x.ai/bot/28-3rWvVH4b3GpRZCmogQ
+- Category: Developer Tools
+- Topics: website, security
+- Added: 2026-10-31
+- Packs: Website Launch & Growth Pack, Compliance & Legal Pack
+
+A defensive security assistant for small sites and apps. It runs safe, passive scans of sites you own and gives copy-paste fixes, checks your emails and domains against known breaches, and sends a plain-English feed of current attacks with official advisories. It never scans anything you don't own and never does offensive testing.
+
+## Trust & Safety Response
+
+- Link: https://x.ai/bot/oCVleI40-dWX-OHJbvkMs
+- Category: Legal
+- Topics: compliance, legal
+- Added: 2026-10-31
+- Packs: Compliance & Legal Pack
+
+Supports Trust & Safety and law enforcement response teams: triages user reports and legal requests, checks validity and jurisdiction, drafts responses and disclosure packages for human approval, tracks SLAs, and builds transparency report stats.
+
+## Udemy Course Uploader
+
+- Link: https://x.ai/bot/uhwgH3PTCTCvztpnYt7AY
+- Category: Education
+- Topics: course
+- Added: 2026-10-31
+- Packs: Course Creator Pack
+
+Uploads and replaces lecture videos in your Udemy courses, checks each one plays, and sends you a status table.
+
+## Website QA Checker
+
+- Link: https://x.ai/bot/UWgpKufqvArLLwM8QEds_
+- Category: Developer Tools
+- Topics: website, seo, qa
+- Added: 2026-10-31
+- Packs: Website Launch & Growth Pack
+
+Tests your website for broken links, broken flows, mobile layout, SEO basics and typos, then sends a bug report ranked by severity.
+
+## Workshop Launch & Ads Manager
+
+- Link: https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z
+- Category: Marketing
+- Topics: workshop, ads, website, payments, income
+- Added: 2026-10-31
+- Packs: Course Creator Pack, Website Launch & Growth Pack, Marketing on Autopilot Pack
+
+Launches a paid live online workshop or buildathon end to end: landing page with seats and local-currency prices, checkout, country funnel tests, and Google Ads Demand Gen copy and creatives. Never spends money or goes live without your yes.
+
+## X Growth Auto-Poster
+
+- Link: https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ
+- Category: Social Media
+- Topics: products, social, promotion
+- Added: 2026-10-31
+- Packs: Creator Launch Pack, Digital Product Business Pack, Marketing on Autopilot Pack
+
+Runs a hands-off daily X posting schedule: same-day AI news posts, tool reviews and a capped number of product soft-sells, written in a human voice. For creators growing an audience while selling digital products.
+
+# Packs
+
+## Creator Launch Pack
+
+- Page: https://flyhigh-bots.vercel.app/packs/creator-launch
+- Grow an audience and launch to it. For creators who want steady posts, videos and a newsletter, plus a free launch push for whatever they make next.
+- AI Film & Music Video Studio: https://x.ai/bot/T4hPZmv7opPaFWZUtmdf6 (Keeps your social feeds busy)
+- Instagram: https://x.ai/bot/JysUnWSCgQfv1L0g5H-AY (Keeps your social feeds busy)
+- Launch Promoter: https://x.ai/bot/jysIiwKDSu4ztUipfNGAq (Keeps your social feeds busy)
+- X Growth Auto-Poster: https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ (Keeps your social feeds busy)
+- Newsletter Autopilot: https://x.ai/bot/XQC6zUaDPyI9SThL2R0ej (Runs your newsletter)
+
+## Digital Product Business Pack
+
+- Page: https://flyhigh-bots.vercel.app/packs/digital-product-business
+- Find it, make it, list it, get paid. Research what to sell, mass-produce original digital products, list them on creator storefronts and get payments live.
+- Market & Niche Researcher: https://x.ai/bot/TSIhtgwFXxdxeT3JIZFPo (Helps you make and sell digital products)
+- Money Maker: https://x.ai/bot/6kZwp2qI3WTst82FmIHU4 (Helps you make and sell digital products)
+- Compliance Toolkit Builder: https://x.ai/bot/Bwul3tQqYCM5iYBVyBHdC (Helps you make and sell digital products)
+- Digital Product Factory: https://x.ai/bot/9ArJ-aBLvVLytHkmesoMp (Helps you make and sell digital products)
+- Digital Product Store Publisher: https://x.ai/bot/fogbsjBp7WD2alude46jf (Helps you make and sell digital products)
+- Digital Store Publisher: https://x.ai/bot/uZAGOFzg39b_R-b7-42Qp (Helps you make and sell digital products)
+- X Growth Auto-Poster: https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ (Helps you make and sell digital products)
+
+## Course Creator Pack
+
+- Page: https://flyhigh-bots.vercel.app/packs/course-creator
+- From idea to published course and live workshop. Pick a course topic with real demand, build and upload the course, run live workshops and turn it into a book.
+- Course Developer: https://x.ai/bot/TQSKNQ4yxMy0f1SoJp_Nr (Builds and ships your courses)
+- Money Maker: https://x.ai/bot/6kZwp2qI3WTst82FmIHU4 (Builds and ships your courses)
+- Udemy Course Uploader: https://x.ai/bot/uhwgH3PTCTCvztpnYt7AY (Builds and ships your courses)
+- Market & Niche Researcher: https://x.ai/bot/TSIhtgwFXxdxeT3JIZFPo (Finds what is worth selling)
+- Workshop Launch & Ads Manager: https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z (Launches paid live workshops)
+- Book Author & KDP Publisher: https://x.ai/bot/iVHerKbstiZv-86EUEaOh (Turns your know-how into a book)
+- Launch Promoter: https://x.ai/bot/jysIiwKDSu4ztUipfNGAq (Turns your know-how into a book)
+
+## Career & Job Hunt Pack
+
+- Page: https://flyhigh-bots.vercel.app/packs/career-job-hunt
+- Daily applications and a plan for working abroad. Apply to jobs every day with your saved resumes, and build a realistic plan for visas and overseas roles.
+- Immigration & Global Careers: https://x.ai/bot/fmMBooBixWXTk_tjpKG_J (Speeds up your job hunt)
+- Freelance Gig Manager: https://x.ai/bot/5WJkK7JvQnU3dOW8k1Yxb (Speeds up your job hunt)
+- Job Apply Assistant: https://x.ai/bot/d97BHkpFYDFAQecsJJ-Z6 (Speeds up your job hunt)
+
+## Website Launch & Growth Pack
+
+- Page: https://flyhigh-bots.vercel.app/packs/website-launch-growth
+- Launch a site that works, gets paid and gets found. QA your site, harden it, get a payment gateway approved, keep watch for security issues and run ads once it is ready.
+- Website QA Checker: https://x.ai/bot/UWgpKufqvArLLwM8QEds_ (Catches bugs before customers do)
+- Payment Go-Live & Site Hardening: https://x.ai/bot/rQNHwYOSK8_qsoiW9ro8Z (Keeps your site and accounts safer)
+- Security Watch: https://x.ai/bot/28-3rWvVH4b3GpRZCmogQ (Keeps your site and accounts safer)
+- Workshop Launch & Ads Manager: https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z (Looks after your website)
+- Data Protection Officer: https://x.ai/bot/0e9DsH6BB8b8XXUz5p0dB (Keeps your site and accounts safer)
+- Google Ads Manager: https://x.ai/bot/Sr3XiT6tmeR8yCJ_POzhW (Looks after your website)
+- Game: https://x.ai/bot/WlSJx_DDaSB4vvDBPqrOP (Looks after your website)
+
+## Marketing on Autopilot Pack
+
+- Page: https://flyhigh-bots.vercel.app/packs/marketing-autopilot
+- Posts, newsletters, ads and promotion that keep running. A newsletter that writes itself, social posting on a schedule, ads with weekly reports and free-channel promotion, all with your approval on anything public or paid.
+- Newsletter Autopilot: https://x.ai/bot/XQC6zUaDPyI9SThL2R0ej (Runs your newsletter)
+- Google Ads Manager: https://x.ai/bot/Sr3XiT6tmeR8yCJ_POzhW (Runs your ads with your approval)
+- Launch Promoter: https://x.ai/bot/jysIiwKDSu4ztUipfNGAq (Keeps your social feeds busy)
+- Workshop Launch & Ads Manager: https://x.ai/bot/2gjs4TvtSZeWdu0V5By9z (Runs your ads with your approval)
+- X Growth Auto-Poster: https://x.ai/bot/8BtRVnoPzIY5U_FOf3hMZ (Keeps your social feeds busy)
+- AI Film & Music Video Studio: https://x.ai/bot/T4hPZmv7opPaFWZUtmdf6 (Keeps your social feeds busy)
+- Instagram: https://x.ai/bot/JysUnWSCgQfv1L0g5H-AY (Keeps your social feeds busy)
+
+## Finance & Trading Pack
+
+- Page: https://flyhigh-bots.vercel.app/packs/finance-trading
+- Research markets and keep a clean trade journal. For traders and investors who want pre-market briefs, watchlist alerts, stock and crypto research, trade plans and a journal — without replacing their broker.
+- Stock & Crypto Trader: https://x.ai/bot/jxKUCaf158ut-7XwSQ_u4 (Researches stocks and crypto with you)
+
+## Compliance & Legal Pack
+
+- Page: https://flyhigh-bots.vercel.app/packs/compliance-legal
+- Source-checked compliance work and a safer site. Build compliance kits checked against official sources, get policy pages ready for payment approval, and keep your site and accounts safer.
+- Data Protection Officer: https://x.ai/bot/0e9DsH6BB8b8XXUz5p0dB (Does the legal work with you)
+- AI Legal Counsel: https://x.ai/bot/0n2IqEnQ_0bUvP6VfPld2 (Does the legal work with you)
+- Chief Legal Officer: https://x.ai/bot/uZa09Jz7CzA_yDqgCNw5a (Does the legal work with you)
+- Contract Review & Drafting: https://x.ai/bot/VM3fu8RV178aDO4nvAnL_ (Does the legal work with you)
+- Legal Research Assistant: https://x.ai/bot/0qonAc5ADQm9BI2BCzdZu (Does the legal work with you)
+- Litigation Case Manager: https://x.ai/bot/TX2ZhJLa79nQNVSj3wo8w (Does the legal work with you)
+- Trust & Safety Response: https://x.ai/bot/oCVleI40-dWX-OHJbvkMs (Does the legal work with you)
+- Payment Go-Live & Site Hardening: https://x.ai/bot/rQNHwYOSK8_qsoiW9ro8Z (Handles compliance and legal groundwork)
+- Compliance Toolkit Builder: https://x.ai/bot/Bwul3tQqYCM5iYBVyBHdC (Handles compliance and legal groundwork)
+- Security Watch: https://x.ai/bot/28-3rWvVH4b3GpRZCmogQ (Keeps your site and accounts safer)
+
+# FAQ
+
+## What is a Grok Bot template?
+
+A ready-made setup for a Grok Bot: its skills, instructions and routines. Adding a template gives you your own copy of that bot, which you can then customise.
+
+## Are these templates free?
+
+Yes. Every template and every pack here is free to add. Running a bot uses your normal Grok Bot plan.
+
+## Do I have to pay or support to use a template or pack?
+
+No. All templates and packs are free. Support is optional, and nothing here depends on it: every template link opens directly, with no payment step in between. If you want to give back, the pay-what-you-want support link is at the bottom of the page.
+
+## How do I use a template?
+
+Tap "Use this template". It opens the template on x.ai, where you add it to your Grok Bot and answer a few setup questions. The bot then starts working for you.
+
+## Will a bot post, pay or submit things without asking me?
+
+These templates are written to ask for your yes before anything goes public, costs money or gets submitted. Each description says what it does on its own.
+
+## Do the templates contain anyone's personal data?
+
+No. Each template is a generic copy with no logins, accounts or personal details. You connect your own accounts after you add it.
+
+## How do I find the right templates for my business?
+
+Use "Find your bundle": describe what you want done and what kind of business you run, or tap a quick pick such as Lawyer, Creator or Startup. You get a matched bundle with a reason for each pick, and a link you can share.
+
+## Who makes these templates?
+
+Every template on this site is built and published by Flyhigh. New templates appear here automatically after they are published.
