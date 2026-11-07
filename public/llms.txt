@@ -5,9 +5,10 @@
 Site: https://flyhigh-bots.vercel.app/
 Machine-readable list of templates and packs: https://flyhigh-bots.vercel.app/bundles.json
 Full descriptions: https://flyhigh-bots.vercel.app/llms-full.txt
-Updated: 2026-11-06T06:05:36.708Z
+Updated: 2026-11-07T04:56:14.539Z
 
 ## Templates
+- [Motion Studio](https://x.ai/bot/I0XmIxdsR50QdiAgbghHA): Your personal motion graphics studio. (Category: Creative)
 - [Stock & Crypto Trader](https://x.ai/bot/jxKUCaf158ut-7XwSQ_u4): A trading research assistant for stocks and crypto: pre-market briefs, watchlist price alerts, stock and coin research, trade plans and a trade… (Category: Finance)
 - [AI Film & Music Video Studio](https://x.ai/bot/T4hPZmv7opPaFWZUtmdf6): Turns your novel, script or song into video with free tools: cinematic scenes with a voice for each character, beat-synced lyric videos with… (Category: Creative)
 - [AI Legal Counsel](https://x.ai/bot/0n2IqEnQ_0bUvP6VfPld2): An in-house legal counsel assistant for startups and small businesses. (Category: Legal)

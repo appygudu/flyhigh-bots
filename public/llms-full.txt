@@ -3,7 +3,17 @@
 > Free Grok Bot templates built and published by Flyhigh. To use one, open its x.ai link and add it to your Grok Bot. All templates and packs are free to add; running a bot uses the user's own Grok Bot plan.
 
 Site: https://flyhigh-bots.vercel.app/
-Updated: 2026-11-06T06:05:36.708Z
+Updated: 2026-11-07T04:56:14.539Z
+
+## Motion Studio
+
+- Link: https://x.ai/bot/I0XmIxdsR50QdiAgbghHA
+- Category: Creative
+- Topics: general
+- Added: 2026-11-07
+- Packs: none
+
+Your personal motion graphics studio. Describe an idea, product, lesson or announcement and it scripts, storyboards and renders a polished animated video in 16:9, 9:16 and 1:1, with music, voiceover and captions.
 
 ## Stock & Crypto Trader
 
