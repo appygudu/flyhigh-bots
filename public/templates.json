@@ -1,7 +1,16 @@
 {
   "creator": "Flyhigh",
-  "updatedAt": "2026-11-06T06:05:36.708Z",
+  "updatedAt": "2026-11-07T04:56:14.539Z",
   "templates": [
+    {
+      "id": "I0XmIxdsR50QdiAgbghHA",
+      "name": "Motion Studio",
+      "description": "Your personal motion graphics studio. Describe an idea, product, lesson or announcement and it scripts, storyboards and renders a polished animated video in 16:9, 9:16 and 1:1, with music, voiceover and captions.",
+      "category": "Creative",
+      "shareUrl": "https://x.ai/bot/I0XmIxdsR50QdiAgbghHA",
+      "image": "https://x.ai/bot/I0XmIxdsR50QdiAgbghHA/opengraph-image-bntnog?e81aaf2c58b21051",
+      "dateAdded": "2026-11-07"
+    },
     {
       "id": "jxKUCaf158ut-7XwSQ_u4",
       "name": "Stock & Crypto Trader",
