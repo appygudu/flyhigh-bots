@@ -54,4 +54,3 @@ Updated: 2026-11-06T06:05:36.708Z
 
 ## Optional
 - [Bundle finder](https://flyhigh-bots.vercel.app/#finder): describe your purpose and business, get a matched bundle. Shareable as https://flyhigh-bots.vercel.app/?for=<your words>#finder
-- [Also listed on EdgeBefore](https://www.edgebefore.com/bots.html)

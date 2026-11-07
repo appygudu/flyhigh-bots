@@ -133,7 +133,7 @@ export function build() {
   const updated = data.updatedAt || new Date().toISOString();
   const lastmod = updated.slice(0, 10);
 
-  // ---------- bundles.json (public, reusable by EdgeBefore) ----------
+  // ---------- bundles.json (public, reusable) ----------
   const bundles = {
     schemaVersion: 1,
     creator: CREATOR,
@@ -196,7 +196,7 @@ ${extra}
   <div class="foot-cols">
     <div><b>Flyhigh Bots</b><p>Only templates created by Flyhigh are listed. New ones appear here automatically after they're published.</p></div>
     <div><b>Packs</b><ul>${packs.map((p) => `<li><a href="/packs/${p.slug}">${esc(p.name)}</a></li>`).join('')}</ul></div>
-    <div><b>More</b><ul><li><a href="/#finder">Find your bundle</a></li><li><a href="/#support">Support this work</a></li><li><a href="https://www.edgebefore.com/bots.html">Also on EdgeBefore</a></li><li><a href="/llms.txt">llms.txt</a></li><li><a href="/bundles.json">bundles.json</a></li></ul></div>
+    <div><b>More</b><ul><li><a href="/#finder">Find your bundle</a></li><li><a href="/#support">Support this work</a></li><li><a href="/llms.txt">llms.txt</a></li><li><a href="/bundles.json">bundles.json</a></li></ul></div>
   </div>
   <p class="small">Updated <time datetime="${esc(updated)}">${esc(lastmod)}</time></p>
 </footer>`;
@@ -365,7 +365,6 @@ ${packs.map((p) => `- [${p.name}](${p.url}): ${p.tagline} Includes ${p.members.m
 
 ## Optional
 - [Bundle finder](${SITE}/#finder): describe your purpose and business, get a matched bundle. Shareable as ${SITE}/?for=<your words>#finder
-- [Also listed on EdgeBefore](https://www.edgebefore.com/bots.html)
 `;
   write('llms.txt', llms);
   const llmsFull = `# Flyhigh Bots: full template catalogue
